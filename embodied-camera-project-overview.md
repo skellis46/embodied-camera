@@ -12,7 +12,7 @@ aim:
 
 context:
 
-We are glued to our screens. The smart-phone is now the sine qua non technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy. It is changing our bodies,[^ch] our postures, gestures and activities (add refs for all of these). 
+We are glued to our screens. The smart-phone is now the sine qua non technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy, it is changing our bodies,[^ch] our postures, gestures and activities (add refs for all of these). 
 
 The concept of embodiment is ... 
 In dance and other somatic practices embodiment refers to ... Movement specialists – like dancers – train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. 
