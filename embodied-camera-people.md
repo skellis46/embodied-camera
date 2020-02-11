@@ -1,7 +1,7 @@
 # embodied camera people
 
 - PI: Ellis
-- Co-I: Claire Loussouarn (Goldsmiths)
+- Co-I: Claire Loussouarn (Goldsmiths): https://www.gold.ac.uk/anthropology/staff/loussouarn-claire/
 - Co-I: Kate Marsh? 
 - Consultants: Katrina McPherson, Owa Barua, Natalia Barua
 
