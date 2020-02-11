@@ -1,45 +1,50 @@
-# project overview: embodied camera
+# project overview: camera bodies
 
-- smart moving
 
 ## useful words 
 
 embodiment | screens | cameras | individualization | dance | anthropology
 
-## research design
+## project summary
 
-aim: 
+_aim:_ to explore how smartphones are changing human understanding and experiences of embodiment 
 
-context:
+_context:_
 
-We are glued to our screens. The smart-phone is now the sine qua non technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy, it is changing our bodies,[^ch] our postures, gestures and activities (add refs for all of these). 
+We are glued to our screens. The smart-phone is now the _sine qua non_ technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy, it is changing our bodies,[^ch] postures, gestures and movements (add refs for all of these). 
 
 The concept of embodiment is ... 
 In dance and other somatic practices embodiment refers to ... Movement specialists – like dancers – train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. 
-speculative
-an experiment located at the intersection between the margins of embodied understanding and the centre of our technological lives. Between the body and data. Between flesh and these objects-devices made from rare and common earth elements and plastics. 
+
+_Embodied Camera_ is speculative research located at the intersection between the margins of embodied understanding and the centre of our technological lives: between the body and data; between our flesh and our smartphone objects made from rare and common earth elements and plastics. 
 
 Friction (?) between the bodies of movement specialists (like dancers) --  – and devices that are screens. Collision.
 
-problem: something about nature of embodiment.
+- (visual) anthropology
+
+problem: something about nature of embodiment. changing nature of embodiment. to understand or assay the changes in embodiment. 
 
 
 rationale: 
 
 research areas:
 
-methods:
+## research design and methodology
+
 - literature/field review and analysis 
 - fieldwork
-    + workshops as research space/environment
-    + practice-research (with KM, OB, NB): experiments in screen-based disembodiment
-    + ethnographic interviews on subject of moving with a smartphone
+    + ethnographic interviews on subject of smartphones and embodiment
+    + experimental workshops as research space/environment
+    + experimental practice-research (with KM, OB, NB): experiments in screen-based dis/embodiment
+
 
 outputs:
 
 - visual essay
+- experimental film
 - journal article
-- 
+- website
+- annotate bibliography: 40 key references
 
 We are connected to the visual.
 Our cameras are with us.
