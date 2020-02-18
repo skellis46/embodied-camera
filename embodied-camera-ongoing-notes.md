@@ -1,5 +1,9 @@
 # embodied camera ongoing notes
 
+## 20200218 - Davidson on resonance
+
+>What are at stake are fundamental differences of logic and modes of expression that have entered our consciousness and multiple practices of communication. Perceptual and cognitive processes – the way we see, process and manipulate information – are radically changing as a result of the digital revolution. Of the two founding theories underpinning the notion of information – ‘resonance’ (Gibson 1950) and ‘redundance’5 (Brillouin 1956) – the former term recognizes the persistence of the body as seat of knowledge. In contrast to ‘redundance’, a term deriving from mathematics and cybernetics, ‘resonance’ heralds from theories of perception and ethology and views information as a field that specifies a context for behaviour. Perception is thus interpreted as the seizing or extraction of pertinent information from within that field (Auray 2002: 131). [@davidson_somatics_2013 p.5]
+
 ## 20200212 - research with technology
 
 >From this perspective, sensoriality reorganizes itself and interiority is mediated, for this same interiority is constantly changing and evolves with respect to the destabilization created by an external technological agency. This modification of interiority through mediation allows for a renewal of the perception of movement and specifically, of the body moving through space. It is one of the elements that allows one to avoid the sclerosis that characterizes much choreography (Bernard 2001) and in my view, constitutes one of the most important aspects of research with technology: the renewal of perceptual organization in order to create new movement scores. [@choiniere_for_2013 p.104]
