@@ -14,7 +14,12 @@ _context:_
 We are glued to our screens. The smart-phone is now the _sine qua non_ technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy, it is changing our bodies,[^ch] postures, gestures and movements (add refs for all of these). 
 
 The concept of embodiment is ... 
-In dance and other somatic practices embodiment refers to ... Movement specialists – like dancers – train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. 
+
+In dance and other somatic practices embodiment refers to ... 
+
+>For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
+
+Movement specialists – like dancers – train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. 
 
 _Embodied Camera_ is speculative research located at the intersection between the margins of embodied understanding and the centre of our technological lives: between the body and data; between our flesh and our smartphone objects made from rare and common earth elements and plastics. 
 
@@ -51,9 +56,9 @@ Our cameras are with us.
 The mobile phone has gone from being a phone to being a camera with communication functions (Apple keynotes focus on camera upgrades)
 Democratization of the moving (and still) image. 
 Role of YouTube -- give some sense of its scale and breadth.
-Akin to extension of human body. Like Stelarc's experiments and experiences writ large. 
+Akin to extension of human body. Like Stelarc's experiments and experiences writ large. Volume 5 in JDSP on dance and technology useful here (see Davidson's introduction for overview). 
 Frontal embodiment: occular-centric, frontal surfaces of the body. Narrowing of attention towards the central experiences of the eyes (not peripheral)
-Attenuation of peripheral vision/experience.
+Attenuation of peripheral vision/experience. Cooper-Albright discusses this in her wee book.
 What do I mean by embodiment?
 Humans clearly have complex – love-hate – relationship with the smartphone.
 Glued to our screens.
