@@ -3,7 +3,7 @@
 
 ## useful words 
 
-embodiment | screens | cameras | individualization | dance | anthropology
+embodiment | screens | cameras | individualization | dance | anthropology | embody
 
 ## project summary
 
@@ -13,9 +13,24 @@ _context:_
 
 We are glued to our screens. The smart-phone is now the _sine qua non_ technological extension to our body.[^ext] Greeted with pleasure, scepticism, angst and joy, it is changing our bodies,[^ch] postures, gestures and movements (add refs for all of these). 
 
-The concept of embodiment is ... 
 
-In dance and other somatic practices embodiment refers to ... 
+In dance scholarship we seem to use the verb _to embody_ rather loosely and confusingly. Of the various definitions in the OED---and putting aside some of the military-oriented etymologies as in "the number of embodied troops" from 1803---the closest to our common use seem to be "to put into a body" or "invest or clothe (a spirit) with a body".[@noauthor_embody_2019] A soul or spirit is embodied when it has a body or is "invested with a body"[@noauthor_embodied_2019] Perhaps this suggests a process of holding or containing in the body something that is not normally thought of as being of the body. And so when we (dance scholars) use the phrase "embodied knowledge" perhaps we are simply drawing attention to a form of understanding that is distinct from common understandings of knowledge, and that is _held_ in the body. The same with embodied intelligence, and even embodied awareness. 
+
+But what about _embodied actions_ or _embodied movements_ or even _embodied dance_? These are all terms common in dance practice and scholarship. Actions, movements and dance are concepts that are already primarily corporeal, at least in their common usage. It's as if in these examples the word _embodied_ acts as an adjectival modifier to help make the nouns more specific, not unlike _fast_ or _hot_ or _sexy_. As in fast actions, hot movements and sexy dance. But with _embodied_ as a modifier of human action this does not seem quite right. I suspect that when we describe an action as _embodied_ we are ascribing some quality of attention or awareness to that action. That such embodied actions are not trivially placed on the outside of the body, but rather invested deeply within the body. The question of how it is that we might recognise embodied actions over what I could call _disembodied actions_ is an entirely different problem.
+
+Here are two examples of just how much dance scholars are prepared to tie themselves in knots making sense of _embodied knowledge_:
+
+>the somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate. [@choiniere_somatic/embodiment/technology_2018 p.195]
+
+Choiniere is saying that somatic intelligence ... is "one of the forms of physical intelligence", "a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate." That somatic intelligence like embodied knowledge _and_ is a subset of physical intelligence. Three abstract terms in one sentence that each seem to refer to each other (in however )
+
+three abstract terms in one sentence 
+?
+I don't get the 'increased' bit. 
+what are the other forms? 
+to sense what? to perceive what?
+to relate to whom or what?
+
 
 >For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
 
