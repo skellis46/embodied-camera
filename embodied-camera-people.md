@@ -2,7 +2,7 @@
 
 - PI: Ellis
 - Co-I: Claire Loussouarn (Goldsmiths): https://www.gold.ac.uk/anthropology/staff/loussouarn-claire/
-- Co-I: Kate Marsh? 
+- Co-I: Kate Marsh? (haven't talked to her yet)
 - Consultants: Katrina McPherson, Owa Barua, Natalia Barua
 
 
