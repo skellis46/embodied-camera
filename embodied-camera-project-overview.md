@@ -3,7 +3,7 @@
 
 ## useful words 
 
-screens | cameras | individualization | dance | visual anthropology | movement | gestures | postures | bodies | movement experience 
+screens | cameras | individualization | identification | dance | visual anthropology | movement | gestures | postures | bodies | movement experience 
 
 ## project summary
 
@@ -53,6 +53,8 @@ Glued to our screens.
         * Sobchack
     + visual anthropology?
     + dance and technology
+    + film studies
+        * Bédard - first person and third-person photography and the go pro: bedard-2015-disembodied.pdf. techno-aesthetic approach
     + art
         * sculptures of hands as smartphone gestures 
     + experiments with cameras and movement
@@ -73,6 +75,7 @@ Glued to our screens.
 - create and share conversations with industry and disciplinary experts about our bodies and our smartphones 
 - develop range of public facing (including non-traditional) research outputs
 - develop various writing practices (blog posting and traditional scholarship) that shares key (emergent) ideas and communicates research understandings 
+- something about aesthetic, process-orientated (through creative practice), experiential and ethnographic 
 
 ### methods
 
@@ -81,7 +84,9 @@ Glued to our screens.
     + ethnographic interviews on subject of smartphones and our moving bodies (with artists and scholars)
         * artist who made scultures of hands (gestures)
     + experimental workshops as research space/environment
-    + experimental practice-research (with KM, OB, NB, CL): experiments in screen-based anti/non/-movement
+    + experimental practice-research (with KM, OB, NB, CL): 
+        * experiments in screen-based anti/non/-movement
+        * combining first-person and third-person cameras (phone and go-pro mounted with gnarwhal)
 - rationale: why this method? what do we get from it? 
     + experiential 
     + understanding through doing (citation/evidence/precedent)
