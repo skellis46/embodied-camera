@@ -1,5 +1,13 @@
 # embodied camera ongoing notes
 
+## 20200305 - 3rd person perspective
+
+>Since a centrifugal mode of perception is standard for a human subject, the user has no point of reference for understanding the world as seen through the eyes of a centripetally perceiving camera.[@bedard_disembodied_2015 p.12]
+
+>In time, I suspect our experience of centripetal images in GoPro videos will begin to influence our own perceptual apparatus and allow us to view and interact differently with the world around us. Among other changes this might foster, we might learn to understand how differently the world can be seen from outside our typical, centrifugal mode of perception.[@bedard_disembodied_2015 p.12]
+
+- we create a similar (if not as fixed) 3rd person relationship with camera with the smartphone -- it is peering at us in this way. Bedard touches on this in the next page -- in a thought experiment
+
 ## 20200227 - identification
 
 >Through the terms they use, Schmidt and Thompson evoke the process of identification, which, as for instance Katherine Thomson- Jones explains, is central to our understanding and our appreciation of narrative films since it “explains why we enjoy watching films” (115), constituting “one of the primary ways in which we engage with characters” (105). Although the images discussed in this article are taken from extreme-sports videos rather than narrative films, I argue a similar process of immersion and identification still takes place. While some theorists treat identification as “pathological and thus undesirable and dangerous” (Thompson-Jones 136), this article considers identification with the athletes on screen to be a positive act of emotional and visceral engagement between a viewer and what he or she sees; a process that can be beneficial to the experience of these videos. With this in mind, it is important that a first- person camera placement, such as the one Schmidt and Thompson describe, offers the viewer a taste of what it feels like to do what these athletes do. [@bedard_disembodied_2015]
