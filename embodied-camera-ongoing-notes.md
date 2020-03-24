@@ -1,5 +1,9 @@
 # embodied camera ongoing notes
 
+## 20200324 - dancing with camera by Claire
+
+<http://somaticstoolkit.coventry.ac.uk/loussouarn-dancing-with-the-camera/>
+
 ## 20200305 - 3rd person perspective
 
 >Since a centrifugal mode of perception is standard for a human subject, the user has no point of reference for understanding the world as seen through the eyes of a centripetally perceiving camera.[@bedard_disembodied_2015 p.12]
