@@ -1,5 +1,34 @@
 # embodied camera ongoing notes
 
+## 20200325 - films to explore
+
+came out of conversations in Findhorn in 2019:
+
+- Lick and the dogs
+- The Fall - Tarsem Singh
+- The Color of Pomegranate
+- Steve McQueen - film from Keaton
+- Hyperallergic
+- Mark Cousins -- video essays
+- Catherine Grant -- video essays
+
+other notes from those same conversations
+
+Solloway: 3 ways of using a camera:
+1. I, feel, see
+2. I see how it feels to be seen
+3. I see you seeing me
+- Katrina’s rethinking of that.
+
+- camera on body, attached, held, away
+- on bungee
+- throwing the camera 
+- “agency of the image” - Katrina
+- how important is the camera in what is being filmed?
+- when the subject is more important than the camera it is documentation? (ACA)
+- “space of movement, moving image and bodies” -- ACA
+- the way our bodies are prescribed
+
 ## 20200324 - dancing with camera by Claire
 
 <http://somaticstoolkit.coventry.ac.uk/loussouarn-dancing-with-the-camera/>
