@@ -1,5 +1,11 @@
 # embodied camera ongoing notes
 
+## 20200327 - embodied film - hopkins
+
+>In the same way that photography’s new way of seeing at the end of the nineteenth century led to a letting go of some deeply held visual preconceptions, and at the end of the twentieth century digital cameras invited us to continue that journey, for filmmakers Prapto’s _empty axis_ suggests a letting go on both physical and cultural levels, with many implications for narrative and structure, the physical use of the body in filming, and the place of mind. Together, these require a [p.18] radical openness that remains physically connected but is not seduced by the visual sense or intellectualised.[@hopkins_eye_2014 pp.17-18]
+
+- thinking through the visual and the perceptual/felt -- that in the phone both are powerfully afforded
+
 ## 20200325 - films to explore
 
 came out of conversations in Findhorn in 2019:
