@@ -1,11 +1,5 @@
 # research project grants outline application: moving camera bodies
 
-<https://grants.leverhulme.ac.uk/Login.aspx>
-
-## principal applicant details
-
-do these online
-
 ## proposal
 
 ### fields of study
@@ -19,6 +13,8 @@ Monday 5 July 2021
 
 ### total time to be spent on project by PI (hours per week)
 
+15 hours per week (for 18 months?) = total hours? 
+
 
 ### abstract
 
@@ -30,8 +26,8 @@ Monday 5 July 2021
 
 >By contrast, discovery-led research (curiosity-driven or ‘blue-skies’ work) often finds itself being squeezed out, as the demand for ‘relevance’ or ‘impact’ steadily grows. In that context, higher- risk fundamental or speculative inquiry may seem to have little to contribute, beyond a (perhaps) better understanding of our world and ourselves. Outcomes are uncertain. The Trust has a keen appetite for this type of proposal. -- <20191113 - LT Newsletter Sept19 Lo-res.pdf>
 
-- research into tech normally about optimisation, quantatative
-- this is experiential qualitative.
+- research into tech normally about optimisation, quantitative
+- this is experiential (and experimental) qualitative.
 - founded in unlikely combination
 - part of speculation is in methods and outcomes
 
