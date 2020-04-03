@@ -31,6 +31,8 @@ Monday 5 July 2021
 - founded in unlikely combination
 - part of speculation is in methods and outcomes
 
+"generates new forms of experience"[@manning_minor_2016 p.27]
+
 ### other research commitments 
 
 >used for LT to decide if I have time to do the research 
