@@ -1,5 +1,12 @@
 # embodied camera ongoing notes
 
+## 20200403 - erin manning
+
+>Research-creation does much more than what the funding agencies had in store for it: it generates new forms of experience; it tremulously stages an encounter for disparate practices, giving them a conduit for collective expression; it hesitantly acknowledges that normative modes of inquiry and containment often are incapable of assessing its value; it generates forms of knowledge that are extralinguistic. [@manning_minor_2016 p.27]
+
+(from Emilie Gallier's PhD)
+
+
 ## 20200327 - embodied film - hopkins
 
 >In the same way that photography’s new way of seeing at the end of the nineteenth century led to a letting go of some deeply held visual preconceptions, and at the end of the twentieth century digital cameras invited us to continue that journey, for filmmakers Prapto’s _empty axis_ suggests a letting go on both physical and cultural levels, with many implications for narrative and structure, the physical use of the body in filming, and the place of mind. Together, these require a [p.18] radical openness that remains physically connected but is not seduced by the visual sense or intellectualised.[@hopkins_eye_2014 pp.17-18]
