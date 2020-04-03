@@ -130,9 +130,6 @@ In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly 
 - something about aesthetic, process-orientated (through creative practice), experiential and ethnographic 
 
 
-
-
-
 ### methods
 
 - literature/field review and analysis 
