@@ -15,6 +15,22 @@ Monday 5 July 2021
 
 15 hours per week (for 18 months?) = total hours? 
 
+As standard (UKRI), in a year there are
+- 220 working days 
+- 44 working weeks
+- 5 days per week
+- 7.5 hours per day
+- 37.5 hours per week
+- 1650 hours per year
+
+7.5 hours per week (1 day) for 66 weeks
+= 495 hours
+
+1.5 days per week for 66 weeks 
+= 742.5
+
+15 hours (2 days) per week for 66 weeks
+= 990
 
 ### abstract
 
