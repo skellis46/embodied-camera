@@ -44,7 +44,7 @@ Monday 5 July 2021
 >max 1k words; upload PDF; two pages, arial 11point; 
 >style is for lay reader with a good knowledge of subject area. should include hypotheses to be tested, objectives, significance, methods to be used, details of how results will be published
 
-#### hypotheses
+#### hypotheses / questions
 
 #### objectives
 
