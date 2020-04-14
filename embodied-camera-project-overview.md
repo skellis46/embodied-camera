@@ -134,7 +134,7 @@ In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly 
 2. _smart-phone and its camera's effects on the body:_ create annotated video lexicon of body gestures, actions and possibilities that are limited or afforded by the smart-phone and its camera (use MotionBank?). This collection will be recorded, transcribed, organised and uploaded to project website
 3. _body's effects on the camera:_ generate a series of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smart-phone. This collection will be recorded, transcribed, organised and uploaded to the project website
 4. artistic output - screendance (coming from RQ 2 and 3)
-5. non-visual senses. creative possibilities of device as camera and the body (intersection) - visual essay
+5. non-visual senses. creative possibilities of device as camera and the body (intersection) possibly use footage or stills from interviews as well? - visual essay
 6. project website, including project blog
 
 ### methods
