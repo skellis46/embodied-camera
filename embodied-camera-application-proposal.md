@@ -36,6 +36,28 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
+_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smart-phones: between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here between the ways in which our cultural and anatomical bodies are built for movement, and our smartphone screens that demand static attention, or chronic bodily stillness. 
+
+
+
+
+problem: something about changing nature of movement and postural experiences. to understand or assay changes at the intersection of devices as camera-objects and our bodies that are built for movement. 
+problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
+
+In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly unseeing -- lens to hyper-visuality and staticity as expressed through and afforded by the smart-phone.
+
+
+- to employ the skills, experiences and expertise of dance artist-researchers as 'tools' for speculative exploration into _human experiences with everyday technology_
+- to adapt and use experimental movement practices to examine the ways in which the smart-phone limits and affords possibilities for movement, sensing and seeing
+- to imagine and communicate new or different body-based relationships to the smart-phone 
+- employ dance and somatic practices as a strategy to expand understanding of the role and impact of smart-phone screens on daily life
+
+
+experimental qualitative research methods: 
+
+
+Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
+
 ### why the Leverhulme Trust?
 
 >full clear justification for applying to LT, based on understanding of LT's character. This is important. Tips: 1) consult their 'approach to grant making'; 2) don't cut and paste from their site; 3) don't duplicate things I've said elsewhere on application; 4) answer the question; 5) don't just describe the project (there's room for that elsewhere); 6) is trust really best recipient for this application? 
