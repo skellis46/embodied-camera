@@ -36,7 +36,7 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise and imaginations of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
+Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
 
 ### why the Leverhulme Trust?
 
@@ -66,11 +66,13 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We are glued to our screens. It is estimated that by 2022 there will be 6.8 billion smartphones globally.[@barnes_mobile_2019] The smartphone is the _sine qua non_ technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our bodies, posture, vision, sleep, movement and psychological states.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] The smartphone is also more than a technological extension to our body. That is, it is more than something that allows "human beings to see, touch, feel, hear, manipulate and understand what to date has remained invisible to the senses or hidden in matter, the body and the universe".[@davidson_somatics_2013 p.5] If bodily technologies commonly and historically extend our senses outwards -- centrifugally -- then the smartphone seems to direct our attention back towards our selves in a more centripetal (or centre-seeking) manner. The smartphone -- a device characterised by, or synonymous with, its screen -- is both lens and mirror. link here to studies of identity (and maybe Simondon?)
+We are glued to our screens. In 2016 there were **3.xx billion** smartphones globally, and it is estimated that by 2022 there will be 6.8 billion.[@barnes_mobile_2019] The smartphone is the _sine qua non_ technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement and psychological states.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] If bodily technologies commonly and historically extend our senses outwards or centrifugally,[@davidson_somatics_2013 p.5] then the smartphone seems to direct our attention centripetally towards our inner selves. The smartphone -- a device characterised by, or synonymous with, its screen -- is both lens and mirror, and its pleasure and power is at least in part made possible by how its hyper-visual worlds shape our identities.**add ref about identity** 
 
-couple of sentences here about what work has been done.
+couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.  
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique. 
+
+State that inside out, opposite of outside in of smartphone
 
 couple of sentences about relationship of somatics to tech -- focused on what? 
 
@@ -257,3 +259,5 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 # edit bin
 
 problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
+
+The smartphone is also more than a technological extension to our body. That is, it is more than something that allows “human beings to see, touch, feel, hear, manipulate and understand what to date has remained invisible to the senses or hidden in matter, the body and the universe”.[@davidson_somatics_2013 p.5]
