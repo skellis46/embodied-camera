@@ -4,9 +4,7 @@
 
 _Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smart-phones: between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement; between hyper-visuality and the sensate or felt; between our flesh and our device-objects; between the body and data.
 
-We are glued to our screens. The smart-phone is now the _sine qua non_ technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our bodies, postures, gestures and movements. The smart-phone is also more than a technological extension to our body. That is, it is more than something that allows "human beings to see, touch, feel, hear, manipulate and understand what to date has remained invisible to the senses or hidden in matter, the body and the universe".[@davidson_somatics_2013 p.5] If bodily technologies commonly and historically extend our senses outwards -- centrifugally -- then the smart-phone seems to direct our attention back towards our selves in a more centripetal (or centre-seeking) manner. The smart-phone -- a device characterised by, or synonymous with, its screen -- is both lens and mirror. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture. Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.  
 
 ## useful words 
 
