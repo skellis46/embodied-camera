@@ -36,8 +36,7 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-_Moving Camera Bodies_ is located at the intersection of our smartphones and our bodies, where there is tension between our bodies that are predisposed for movement, and our smartphone screens that demand attention made possible by chronic stillness. _Moving Camera Bodies_ employs the expertise and imaginations of dance movement specialists in a series of practical field experiments to examine this tension. It applies experimental physical and sensate (non-visual) practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between vision, proprioception, movement, stillness and smartphones. 
-
+Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise and imaginations of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
 
 ### why the Leverhulme Trust?
 
@@ -80,6 +79,8 @@ In this research, we speculate that there is productive tension between these tw
 between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here 
 
 Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
+
+
 
 'tools' for speculative exploration into _human experiences with everyday technology_
 
