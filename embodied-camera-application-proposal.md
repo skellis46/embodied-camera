@@ -83,6 +83,11 @@ between the device that has become the centre of our technological lives, and ou
 Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
 
 
+screens today are "methods for the management of attention that use partitioning and sedentarization, rndering bodies controllable and useful simultaneously, even as they simular the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
+
+>proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper-albright_how_2019 p.62] 
+
+>Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world.[@cooper-albright_how_2019 p.63] 
 
 'tools' for speculative exploration into _human experiences with everyday technology_
 
