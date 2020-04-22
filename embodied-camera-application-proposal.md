@@ -38,6 +38,15 @@ As standard (UKRI), in a year there are
 
 Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
 
+**notes from scott**
+
+Is this an interdisciplinary project, will it involve researchers outide the dance field? I’m wondering how you get from the developing experiments to the deepened understanding? Seems to be missing a step? If no other disciplines involved, would a kind of self-reflexive autoethnography be useful?
+
+Here is an idea… it’s not right but may be useful? I just made up ‘practice analysis’. And now sentence nr. 2 and nr. 3 kind of say the same thing.
+
+Human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness._Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists to examine the ways these contemporary cultural technologies of movement and stillness intersect. These specialists will develop a series of practical field experiments applying specific movement practices to the staticity afforded by the smartphone. Through autoethnography and practice analysis, the research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+
+
 ### why the Leverhulme Trust?
 
 >full clear justification for applying to LT, based on understanding of LT's character. This is important. Tips: 1) consult their 'approach to grant making'; 2) don't cut and paste from their site; 3) don't duplicate things I've said elsewhere on application; 4) answer the question; 5) don't just describe the project (there's room for that elsewhere); 6) is trust really best recipient for this application? 
