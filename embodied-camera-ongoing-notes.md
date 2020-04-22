@@ -1,5 +1,13 @@
 # embodied camera ongoing notes
 
+## 20200422 - ann cooper-albright
+
+>the lack of integration becomes abundantly clear when students in my classes comment on how wonderful it feels to "be in my body three times a week." This odd expression occurs with such regularity that I have been forced to confront the obvious question: where are they the rest of the time? This is not simply my own (admittedly old school) belief in the importance of live communication, but is indicative of precisely what Crary pointed out in his analysis of modern attention---a situation where we navigate the world via screens (and think we are technologically astute) even though in the process we become less aware of our full, three-dimensional physicality. When my students say they are happy to _be in their bodies_ three times a week, I believe they are actually referring to a heightened awareness of their own [p.63] proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation. (p.62)
+
+>This kind of adaptive movement skill can ground our bodies in ways that help anchor our perception of a world in flux. Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world. (p.63)
+
+[@cooper-albright_how_2019]
+
 ## 20200403 - erin manning
 
 >Research-creation does much more than what the funding agencies had in store for it: it generates new forms of experience; it tremulously stages an encounter for disparate practices, giving them a conduit for collective expression; it hesitantly acknowledges that normative modes of inquiry and containment often are incapable of assessing its value; it generates forms of knowledge that are extralinguistic. [@manning_minor_2016 p.27]
