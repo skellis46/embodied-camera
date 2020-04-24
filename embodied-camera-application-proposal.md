@@ -36,16 +36,11 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
+Human bodies are predisposed for movement, while smartphones demand attention made possible by chronic stillness. _Moving Camera Bodies_ is speculative research. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that affords stillness. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
 
-**notes from scott**
-
-Is this an interdisciplinary project, will it involve researchers outide the dance field? I’m wondering how you get from the developing experiments to the deepened understanding? Seems to be missing a step? If no other disciplines involved, would a kind of self-reflexive autoethnography be useful?
-
-Here is an idea… it’s not right but may be useful? I just made up ‘practice analysis’. And now sentence nr. 2 and nr. 3 kind of say the same thing.
-
-Human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness._Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists to examine the ways these contemporary cultural technologies of movement and stillness intersect. These specialists will develop a series of practical field experiments applying specific movement practices to the staticity afforded by the smartphone. Through autoethnography and practice analysis, the research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
-
+- what's the aim?
+- why?
+- What problem(s) does this research uncover or aim to solve?
 
 ### why the Leverhulme Trust?
 
@@ -75,9 +70,20 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We are glued to our screens. In 2016 there were **3.xx billion** smartphones globally, and it is estimated that by 2022 there will be 6.8 billion.[@barnes_mobile_2019] The smartphone is the _sine qua non_ technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement and psychological states.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] If bodily technologies commonly and historically extend our senses outwards or centrifugally,[@davidson_somatics_2013 p.5] then the smartphone seems to direct our attention centripetally towards our inner selves. The smartphone -- a device characterised by, or synonymous with, its screen -- is both lens and mirror, and its pleasure and power is at least in part made possible by how its hyper-visual worlds shape our identities.**add ref about identity** 
+We live in a "smartphone society" glued to our screens.[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] If technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013] then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
-couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
+statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
+
+Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017]. Adjust this sentence -- also about attention.
+
+phone also as saviour to stillness: https://www.mdpi.com/1424-8220/18/3/874 (!)
+reduced proprioception: https://www.biomedres.info/biomedical-research/impact-of-smartphone-usage-on-cervical-proprioception-and-balance-in-healthy-adults-10504.html
+cognitive capacity: https://www.journals.uchicago.edu/doi/abs/10.1086/691462
+
+on walking and listening: https://link.springer.com/chapter/10.1007/978-3-319-40548-3_31
+our attention is compromised: hyman-2010-did.pdf (loads of evidence)
+
+on couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
 
 Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique. 
 
@@ -271,6 +277,12 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
+
+
+to examine this contradiction. These specialists will 
+the ways these contemporary cultural experiences of movement and stillness intersect. 
 
 problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
 
