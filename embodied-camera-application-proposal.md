@@ -74,6 +74,14 @@ We live in a "smartphone society" glued to our screens.[@ofcom_communications_20
 
 statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
 
+>In particular, people using a cell phone may be less likely to notice new and distinctive stimuli, a phenomenon known as inattentional blindness (Becklen & Cervone, 1983; Mack & Rock, 1998; Neisser & Becklen, 1975; Newby & Rock, 1998; Simons, 2000; Simons & Chabris, 1999).[@hyman_did_2009 p.598]
+
+>We found that individuals walking while talking on a cell phone displayed inattentional blindness in a real-world situation. They experienced more difficulty navigating through a complex environment than people in other conditions. They walked slower, weaved more often, and made more direction changes. Finally, they were less likely to acknowledge other individuals and to notice the unicycling clown thus illustrating inattentional blindness.[@hyman_did_2009 p.604]
+
+>One of the most dangerous aspects of cell phone divided attention is that affected individuals remain oblivious to their poor performance. Strayer et al. (2006) reported that cell phone participants were unaware of the conversation’s detrimental effects because the participants felt that they performed fine even though they had just displayed problems (see also Lesch & Hancock, 2004). Similarly, many individuals with whom we have talked feel they can perform divided attention tasks such as using a cell phone and driving. However, we cannot trust these claims because people are not aware of the things they miss because of inattentional blindness. Simons and Chabris (1999) noted that when participants were shown what they had missed because of inattentional blindness, they were surprised that they could have missed it.[@hyman_did_2009 p.605]  
+
+what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+
 Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017]. Adjust this sentence -- also about attention.
 
 phone also as saviour to stillness: https://www.mdpi.com/1424-8220/18/3/874 (!)
@@ -85,7 +93,9 @@ our attention is compromised: hyman-2010-did.pdf (loads of evidence)
 
 on couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique. 
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
+
+is ACA’s discussion of “back space” (pp.98-99) (and Bonnie’s BMC work — CQs) useful here?  
 
 State that inside out, opposite of outside in of smartphone
 
