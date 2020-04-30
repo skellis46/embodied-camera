@@ -79,7 +79,7 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We live glued to our screens in a "smartphone society".[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005]; the smartphone .. then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
+We live glued to our screens in a "smartphone society".[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005]; they are "extensions of man"[@galloway_paucity_2020 n.pag.] the smartphone .. then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
 statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
 
@@ -99,6 +99,8 @@ what can these specialists offer? other ways of being with the device? alternati
 
 Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017]. Adjust this sentence -- also about attention.
 
+focus on "narrating the experience of users"[@galloway_paucity_2020 n.pag.] -- as in the work of Turkle.
+
 phone also as saviour to stillness: https://www.mdpi.com/1424-8220/18/3/874 (!)
 reduced proprioception: https://www.biomedres.info/biomedical-research/impact-of-smartphone-usage-on-cervical-proprioception-and-balance-in-healthy-adults-10504.html
 cognitive capacity: https://www.journals.uchicago.edu/doi/abs/10.1086/691462
@@ -116,7 +118,12 @@ State that inside out, opposite of outside in of smartphone
 
 couple of sentences about relationship of somatics to tech -- focused on what? 
 
+
+>This split does not simply separate our bodies from our minds and favor mind over body ... [it] removes us from the experience of our bodies and dis- connects us from our own inner proprioceptive signals as well as from our somas and living processes ... there is an active obsession with the body as an objective mechanical entity. As a result we are often numbed to the awareness of internal body messages and the power of our connected selves.[Green, in @kolcio_somatic_2005 p.111]
+
 In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone as experienced by us all, and the body as experienced by dance movement specialists. In _Moving Camera Bodies_ we propose an experimental point of convergence between the smartphone and the sensorial capabilities of the dancer. 
+
+"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
 
 between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here 
 
