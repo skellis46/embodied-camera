@@ -36,7 +36,16 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-Human bodies are predisposed for movement, while smartphones demand attention made possible by chronic stillness. _Moving Camera Bodies_ is speculative research. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that affords stillness. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+Human bodies are predisposed for movement, while smartphones demand attention made possible by chronic stillness. There is growing evidence that ... (beyond our capacity to notice these changes)
+
+_Moving Camera Bodies_ is speculative research. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that affords stillness. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+
+Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
+- not out of fear (Kolcio, p.109), not because threatened, or wanting to limit the smartphone. but out of sheer curiosity -- what becomes possible? to not limit the functions and experiences of our interface with these technologies
+
+"to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110]
+
+"[Heidegger] suggests that modern technology is not simply a tool or instrument, but a pervasive cultural epistemological paradigm."[@kolcio_somatic_2005 p.110] - then look into enframing.
 
 - what's the aim?
 - why?
@@ -70,7 +79,7 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We live in a "smartphone society" glued to our screens.[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] If technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013] then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
+We live glued to our screens in a "smartphone society".[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005]; the smartphone .. then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
 statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
 
@@ -81,6 +90,12 @@ statement here about assumption that as we are drawn inwards, we are drawn away 
 >One of the most dangerous aspects of cell phone divided attention is that affected individuals remain oblivious to their poor performance. Strayer et al. (2006) reported that cell phone participants were unaware of the conversation’s detrimental effects because the participants felt that they performed fine even though they had just displayed problems (see also Lesch & Hancock, 2004). Similarly, many individuals with whom we have talked feel they can perform divided attention tasks such as using a cell phone and driving. However, we cannot trust these claims because people are not aware of the things they miss because of inattentional blindness. Simons and Chabris (1999) noted that when participants were shown what they had missed because of inattentional blindness, they were surprised that they could have missed it.[@hyman_did_2009 p.605]  
 
 what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+
+>As if part of a dance improvisation, any tool gathers it’s meaning only within a sphere of activity and consequently reconfigures the parameters of meaningful activity in that environment.[@kolcio_somatic_2005 p.107]
+
+-- what might be alternate parameters of meaningful activity in the bodily-smartphone 'environment'?
+
+"heightened awareness of the context, coupled with accountability in action"[@kolcio_somatic_2005 p.106]
 
 Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017]. Adjust this sentence -- also about attention.
 
@@ -108,7 +123,7 @@ between the device that has become the centre of our technological lives, and ou
 Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
 
 
-screens today are "methods for the management of attention that use partitioning and sedentarization, rndering bodies controllable and useful simultaneously, even as they simular the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
+screens today are "methods for the management of attention that use partitioning and sedentarization, rendering bodies controllable and useful simultaneously, even as they simular the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
 
 >proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper-albright_how_2019 p.62] 
 
