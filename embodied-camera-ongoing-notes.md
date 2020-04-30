@@ -1,6 +1,14 @@
 # embodied camera ongoing notes
 
-## 20200422 - ann cooper-albright
+## 20200430 - kolcio
+
+>A comparative glance might conclude that dance, in the tradition of Margaret H’Doubler, accomplishes praxis through investigation grounded in the body, while technology extends its focus beyond the body. Each has its respective benefits and drawbacks, but both are concerned with the relationship of the body to its environment.[@kolcio_somatic_2005 p.107]
+
+## 20200430 - ann cooper albright
+
+>Walk around any academic institution, and it becomes obvious that the overuse of this one aspect of cognition results in a body that is habitually hunched over, with a head perched at an oblique angle on the shoulders. Adding to this postural misalignment is the fact that many people now tend to use their eyes myopically, with little awareness of their peripheral vision. I call this mono-focus "screen-eyes" and each passing year I find that it takes longer to shift students' attention to three-dimensional space. This dis-embodiment of young people is a central topic of conversation among dance teachers, yoga instructors, and personal trainers. Fortunately, learning how to attend to the sensation of gravity can help enliven our more tactile, proprioceptive sensibility so that we no longer have to walk around, looking at the world as if it were merely an extra-large flat screen.[@cooper_albright_how_2019 p.124] 
+
+## 20200422 - ann cooper albright
 
 >the lack of integration becomes abundantly clear when students in my classes comment on how wonderful it feels to "be in my body three times a week." This odd expression occurs with such regularity that I have been forced to confront the obvious question: where are they the rest of the time? This is not simply my own (admittedly old school) belief in the importance of live communication, but is indicative of precisely what Crary pointed out in his analysis of modern attention---a situation where we navigate the world via screens (and think we are technologically astute) even though in the process we become less aware of our full, three-dimensional physicality. When my students say they are happy to _be in their bodies_ three times a week, I believe they are actually referring to a heightened awareness of their own [p.63] proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation. (p.62)
 
