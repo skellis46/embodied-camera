@@ -36,20 +36,12 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-Human bodies are predisposed for movement, while smartphones demand attention made possible by chronic stillness. There is growing evidence that ... (beyond our capacity to notice these changes)
+There is growing evidence that our physical and psychological well-being is compromised by overuse of smartphones. These compromises are underpinned by a paradox: human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness. _Moving Camera Bodies_ is research that aims to speculatively examine the ways our bodies and smartphones meet and effect each other. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that demands stillness and attention. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
 
-_Moving Camera Bodies_ is speculative research. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that affords stillness. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+- is the aim clear?
+- why does this research need to happen?
+- what problem(s) does this research uncover or aim to solve?
 
-Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
-- not out of fear (Kolcio, p.109), not because threatened, or wanting to limit the smartphone. but out of sheer curiosity -- what becomes possible? to not limit the functions and experiences of our interface with these technologies
-
-"to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110]
-
-"[Heidegger] suggests that modern technology is not simply a tool or instrument, but a pervasive cultural epistemological paradigm."[@kolcio_somatic_2005 p.110] - then look into enframing.
-
-- what's the aim?
-- why?
-- What problem(s) does this research uncover or aim to solve?
 
 ### why the Leverhulme Trust?
 
@@ -118,6 +110,12 @@ State that inside out, opposite of outside in of smartphone
 
 couple of sentences about relationship of somatics to tech -- focused on what? 
 
+Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
+- not out of fear (Kolcio, p.109), not because threatened, or wanting to limit the smartphone. but out of sheer curiosity -- what becomes possible? to not limit the functions and experiences of our interface with these technologies
+
+"to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110]
+
+"[Heidegger] suggests that modern technology is not simply a tool or instrument, but a pervasive cultural epistemological paradigm."[@kolcio_somatic_2005 p.110] - then look into enframing.
 
 >This split does not simply separate our bodies from our minds and favor mind over body ... [it] removes us from the experience of our bodies and dis- connects us from our own inner proprioceptive signals as well as from our somas and living processes ... there is an active obsession with the body as an objective mechanical entity. As a result we are often numbed to the awareness of internal body messages and the power of our connected selves.[Green, in @kolcio_somatic_2005 p.111]
 
@@ -309,6 +307,8 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+are being changed by our use of smartphones, and that these changes are occurring within our capacity to notice them.
 
 Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
 
