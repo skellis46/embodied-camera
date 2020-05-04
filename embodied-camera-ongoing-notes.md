@@ -1,5 +1,9 @@
 # embodied camera ongoing notes
 
+## 20200504 - cooper albright
+
+>Being grounded allows us to open up and beocme aware of our surroundings, making ourselves available and responsive to the physical and emotional experiences of any situation, But this organic exchange---this willingness to push and be pushed---cannot take place on a two-dimensional screen. It happens most effectively in the flesh.[@cooper_albright_how_2019 p.134]
+
 ## 20200430 - kolcio
 
 >A comparative glance might conclude that dance, in the tradition of Margaret H’Doubler, accomplishes praxis through investigation grounded in the body, while technology extends its focus beyond the body. Each has its respective benefits and drawbacks, but both are concerned with the relationship of the body to its environment.[@kolcio_somatic_2005 p.107]
