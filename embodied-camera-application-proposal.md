@@ -36,7 +36,7 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is growing evidence that our physical and psychological well-being is compromised by overuse of smartphones. These compromises are underpinned by a paradox: human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness. _Moving Camera Bodies_ is research that aims to speculatively examine the ways our bodies and smartphones meet and effect each other. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that demands stillness and attention. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+There is growing evidence that our physical and psychological well-being is compromised by overuse of smartphones. These compromises are underpinned by a paradox: human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness. _Moving Camera Bodies_ is speculative research that aims to examine how our bodies and smartphones meet and effect each other, and how they _might_ meet and effect each other. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that demands stillness and attention. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
 
 - is the aim clear?
 - why does this research need to happen?
@@ -121,7 +121,7 @@ Where are we when we are in screen-time, and where else might we be while using 
 
 In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone as experienced by us all, and the body as experienced by dance movement specialists. In _Moving Camera Bodies_ we propose an experimental point of convergence between the smartphone and the sensorial capabilities of the dancer. 
 
-"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
+
 
 between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here 
 
@@ -154,55 +154,62 @@ In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly 
 - Cooper-Albright p.76 - ambiguity of the unknown
 - 
 
-
 Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
 
 Aims: 
 
-- to employ the skills, experiences and expertise of dance artist-researchers as 'tools' for speculative exploration into _human experiences with everyday technology_
+- to employ the skills, experiences and expertise of dance artist-researchers as 'tools' for speculative exploration into _human experiences with smartphones_
 - to adapt and use experimental movement practices to examine the ways in which the smartphone limits and affords possibilities for movement, sensing and seeing
 - to imagine and communicate new or different body-based relationships to the smartphone 
-- employ dance and somatic practices as a strategy to expand understanding of the role and impact of smartphone screens on daily life
+- employ dance and somatic practices as a strategy to expand understanding of the role and impact of smartphone screens on daily life **make this one more specific**
 
-#### hypotheses / questions
+#### research questions
 
-1. How does it feel somatically -- in our bodies -- to use a smartphone? 
-    
-+ analysis of literature examining impact of smartphone use with and on our bodies
-+ ethnographic interviews with four dancers/movement experts exploring their felt experiences of using smartphones
-+ analysis of transcriptions from interviews to tease out key themes 
-+ upload interview transcriptions online as OA resource
-+ develop scholarly article that shares and juxtaposes key themes from interviews with key ideas from previous scholarship about relationship between smartphones and our bodies
+1. _Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
+2. _Limits and affordances:_ What movements, postures, gestures and physical _attitudes_ does the smartphone limit and afford? What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
+3. _Adaptation and generation:_ How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
+4. _Non-visual senses:_ The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this dominant and physically restricted cultural way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
 
-2. What movements, postures, gestures and physical _attitudes_ does the smartphone limit and afford? What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
 
-+ complete practice-research fieldwork to create lexicon of body-based limits and affordances in relation to smartphone 
-+ use practice-research to experiment with the smartphone and its camera as a source for body-based understandings and experiences
-+ transcribe/record these experiments and share online
-
-3. How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
-
-+ use practice-research fieldwork to generate series of practices that sensitise our bodies to the smartphone
-+ use practice-research fieldwork to create a set of body-based 'activities' that up-end our moving and bodily relationship to the smartphone
-
-4. The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this dominant and physically restricted cultural way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
-
-+ examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
-+ use creative practice-research experimentation to examine the friction or tension generated by using sensate (or body-based 'felt') strategies to explore the hyper-visuality of smartphone culture
 
 #### objectives
-
-
-
 
 
 #### significance
 
 #### methods
 
-- break down according to research questions
-- 
-- literature/field review and analysis 
+- rationale: why this method? what do we get from it? 
+    + experiential 
+    + understanding through doing (citation/evidence/precedent)
+    + what we 'know' through dance practices (ie what dance understand might bring to the project)
+
+"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
+
+experimental qualitative research methods: 
+
+RQ1 Feelings: 
++ ethnographic interviews with four dancers/movement experts exploring their felt experiences of using smartphones
++ analysis of transcriptions from interviews to tease out key themes 
++ upload interview transcriptions online as OA resource
++ develop scholarly article that shares and juxtaposes key themes from interviews with key ideas from previous scholarship about relationship between smartphones and our bodies
+
+RQ2 Limits and affordances:
++ complete practice-research fieldwork to create lexicon of body-based limits and affordances in relation to smartphone 
++ use practice-research to experiment with the smartphone and its camera as a source for body-based understandings and experiences
++ transcribe/record these experiments and share online
+
+RQ3 Adaptation and generation:
++ use practice-research fieldwork to generate series of practices that sensitise our bodies to the smartphone
++ use practice-research fieldwork to create a set of body-based 'activities' that up-end our moving and bodily relationship to the smartphone
+
+RQ4 Non-visual senses:
++ examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
++ use creative practice-research experimentation to examine the friction or tension generated by using sensate (or body-based 'felt') strategies to explore the hyper-visuality of smartphone culture
+
+
+
+- literature/field analysis 
 - fieldwork
     + ethnographic interviews on subject of smartphones and our moving bodies (with artists and scholars)
         * artist who made sculptures of hands (gestures)
@@ -210,12 +217,7 @@ Aims:
     + experimental practice-research (with KM, OB, NB, CL): 
         * experiments in screen-based anti/non/-movement
         * combining first-person and third-person cameras (phone and go-pro mounted with gnarwhal)
-- rationale: why this method? what do we get from it? 
-    + experiential 
-    + understanding through doing (citation/evidence/precedent)
-    + what we 'know' through dance practices (ie what dance understand might bring to the project)
 
-experimental qualitative research methods: 
 
 #### publication of results
 
