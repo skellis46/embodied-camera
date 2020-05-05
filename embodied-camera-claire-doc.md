@@ -1,4 +1,4 @@
-# Leverhulme Trust research project grants: _moving camera bodies_
+# Leverhulme Trust research project grants: _moving camera bodies_ (working title)
 
 ## abstract
 
@@ -13,83 +13,89 @@ There is growing evidence that our physical and psychological well-being is comp
 
 ### aim
 
-To examine how our bodies and smartphones currently meet and effect each other, and to imagine new possibilities for how they _might_ meet and effect each other
+To examine how our bodies and smartphones currently meet and effect each other, and to imagine new possibilities for how they _might_ meet and effect each other.
+
+- not sure about the word "meet" here (and "interact" is not right -- or would make people think of interactivity)
 
 
-### questions
+### questions (RQ)
 
 1. _Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
-2. _Limits and affordances:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
+2. _Limits and affordances:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? What types of physical experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
 3. _Adaptation and generation:_ How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
 4. _Non-visual senses:_ The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this dominant and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
 
 
-#### objectives
+### objectives
 
-_Feeling:_
+_RQ1 Feeling:_
 
-1. generate ethnographic data from movement specialists that creates a vocabulary exploring how it feels to use a smartphone
+1. generate ethnographic data from movement specialists that create a vocabulary exploring how it feels to use a smartphone
 2. survey current sociological literature that examines experiences of smartphone use
 
-_Limits and differences:_
+_RQ2 Limits and affordances:_
 
-3. 
+3. create a series of artistic research practices that use the smartphone and its camera to explore and test bodily-sensorial limits and affordances
+4. create audio-visual documentation of these practice-based practices and share online
+5. develop reflective-analytical document that describes the physical experiences (limits and affordances) generated in the practices
 
+_RQ3 Adaptation and Generation:_
 
-#### methods
+6. generate a series of artistic research somatic practices that sensitise our bodies to the smartphone
+7. create a set of body-based somatic 'activities' that up-end our moving and bodily relationship to the smartphone
+8. create audio-visual documentation of these practice-based experiments and share online
+9. develop reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone
 
-- rationale: why this method? what do we get from it? 
-    + experiential 
-    + understanding through doing (citation/evidence/precedent)
-    + what we 'know' through dance practices (ie what dance understand might bring to the project)
+_RQ4 Non-visual senses:_
 
-"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
+10. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
+11. generate a set of artistic research experiments that explore the tension between sensate strategies (e.g. body-based or 'felt' movement practices) and the hyper-visuality of smartphones
+12. create audio-visual documentation of these practice-based experiments and share online
+13. develop reflective-analytical document that explores the intersection of non-visual (corporeal) senses and hyper-visuality
 
-experimental qualitative research methods: 
+### methods
 
-RQ1 Feelings: 
-+ ethnographic interviews with four dancers/movement experts exploring their felt experiences of using smartphones
-+ analysis of transcriptions from interviews to tease out key themes 
-+ upload interview transcriptions online as OA resource
-+ develop scholarly article that shares and juxtaposes key themes from interviews with key ideas from previous scholarship about relationship between smartphones and our bodies
+_RQ1 Feeling:_
 
-RQ2 Limits and affordances:
-+ complete practice-research fieldwork to create lexicon of body-based limits and affordances in relation to smartphone 
-+ use practice-research to experiment with the smartphone and its camera as a source for body-based understandings and experiences
-+ transcribe/record these experiments and share online
-
-RQ3 Adaptation and generation:
-+ use practice-research fieldwork to generate series of practices that sensitise our bodies to the smartphone
-+ use practice-research fieldwork to create a set of body-based 'activities' that up-end our moving and bodily relationship to the smartphone
-
-RQ4 Non-visual senses:
-+ examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
-+ use creative practice-research experimentation to examine the friction or tension generated by using sensate (or body-based 'felt') strategies to explore the hyper-visuality of smartphone culture
+- ethnographic interviews and analysis with four dancers/movement experts exploring their felt experiences of using smartphones
+- literature analysis
 
 
+_RQ2 Limits and affordances:_
 
-- literature/field analysis 
-- fieldwork
-    + ethnographic interviews on subject of smartphones and our moving bodies (with artists and scholars)
-        * artist who made sculptures of hands (gestures)
-    + experimental workshops as research space/environment
-    + experimental practice-research (with KM, OB, NB, CL): 
-        * experiments in screen-based anti/non/-movement
-        * combining first-person and third-person cameras (phone and go-pro mounted with gnarwhal)
+- artistic research (practice-research) fieldwork
+- auto-ethnographic reflections/analysis of the fieldwork experiments
+- audio-visual documentation
+
+_RQ3 Adaptation and generation:_
+
+- artistic research (practice-research) fieldwork
+- auto-ethnographic reflections/analysis of the fieldwork experiments
+- audio-visual documentation
+
+_RQ4 Non-visual senses:_
+
+- survey and analysis of cross-disciplinary scholarship
+- artistic research (practice-research) fieldwork
+- auto-ethnographic reflections/analysis of the fieldwork experiments
+- audio-visual documentation
 
 
-### possible outputs
+### planned outputs (possible)
+
+_notes:_
 
 - develop range of public facing (including non-traditional) research outputs
 - develop various writing practices (blog posting and traditional scholarship) that share key (emergent) ideas and communicate research understandings 
 - something about aesthetic, process-orientated (through creative practice), experiential and ethnographic 
 
-1. Develop (ready for publication) a scholarly article examining how it feels to use a smartphone
-2. _smartphone and its camera's effects on the body:_ create annotated video lexicon of body gestures, actions and possibilities that are limited or afforded by the smartphone and its camera (use MotionBank?). This collection will be recorded, transcribed, organised and uploaded to project website
-3. _body's effects on the camera:_ generate a series of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smartphone. This collection will be recorded, transcribed, organised and uploaded to the project website
-4. artistic output - screendance (coming from RQ 2 and 3)
-5. non-visual senses. creative possibilities of device as camera and the body (intersection) possibly use footage or stills from interviews as well? - visual essay
-6. project website, including project blog
+
+1. scholarly article that shares and juxtaposes key themes from interviews with key ideas from previous scholarship about relationship between smartphones and our bodies (_RQ1 feeling_)
+2. annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera. This collection will be recorded, transcribed, organised and uploaded to project website (_RQ2 Limits and affordances_)
+3. audio-visual document of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smartphone. The practices will be recorded, transcribed, organised and uploaded to the project website (_RQ3 Adaptation and generation_)
+4. experimental film or "screendance" developed from practices in _RQ2_ and _RQ3_
+5. video essay that examines the non-visual and visual binary central to the body-smartphone paradox (_RQ4 Non-visual senses_))
+6. project website, project blog (_RQ1-4_)
 
 
 
@@ -118,7 +124,6 @@ Ellis, Simon, 2020. Two People Together. https://www.skellis.net/two-people-toge
 Gil, J., Lepecki, A., 2006. Paradoxical Body. TDR: The Drama Review 50, 21–35.
 
 Hopkins, S., 2014. The Eye of the Hand: embodied Filmmaking as movement Practice, in: Bloom, K., Galanter, M., Reeve, S. (Eds.), Embodied Lives: Reflections on the Influence of Suprapto Suryodarmo and Amerta Movement. Triarchy, Axminster, Devon.
-
 
 Ingold, T., 2013. Making, Anthropology, Archaeology, Art and Architecture. Routledge, London.
 
