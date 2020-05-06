@@ -55,6 +55,8 @@ _RQ4 Non-visual senses:_
 
 ### methods
 
+- thoughts on building visual anthropological methods here?
+
 _RQ1 Feeling:_
 
 - ethnographic interviews and analysis with four dancers/movement experts exploring their felt experiences of using smartphones
@@ -148,38 +150,3 @@ Sobchack, V. (2016) ‘The Scene of the Screen: Envisioning Photographic, Cinema
 Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
-
-## co-applicants
-
-## finance
-
-### general guidance
-
-### salary/budget guidance
-
-### replacement teaching
-
-### staff costs
-
-### associated cost guidance
-
-
-# edit bin
-
-
-- to employ the skills, experiences and expertise of dance artist-researchers as 'tools' for speculative exploration into _human experiences with smartphones_
-- to adapt and use experimental movement practices to examine the ways in which the smartphone limits and affords possibilities for movement, sensing and seeing
-- to imagine and communicate new or different body-based relationships to the smartphone 
-- employ dance and somatic practices as a strategy to expand understanding of the role and impact of smartphone screens on daily life **make this one more specific**
-
-are being changed by our use of smartphones, and that these changes are occurring within our capacity to notice them.
-
-Smartphone screens demand attention made possible by chronic stillness, and human bodies are predisposed for movement. _Moving Camera Bodies_ is speculative research that examines this contradictory situation. The research employs the expertise of dance movement specialists in a series of practical field experiments to examine the ways these contemporary cultural technologies of movement and stillness intersect. The experiments involve applying sensate non-visual movement practices to the hyper-visuality and staticity afforded by the smartphone. The research aims to deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness. 
-
-
-to examine this contradiction. These specialists will 
-the ways these contemporary cultural experiences of movement and stillness intersect. 
-
-problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
-
-The smartphone is also more than a technological extension to our body. That is, it is more than something that allows “human beings to see, touch, feel, hear, manipulate and understand what to date has remained invisible to the senses or hidden in matter, the body and the universe”.[@davidson_somatics_2013 p.5]
