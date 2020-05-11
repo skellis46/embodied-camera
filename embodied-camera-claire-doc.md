@@ -36,7 +36,7 @@ _RQ1 Feeling:_
 _RQ2 Limits and affordances:_
 
 3. create a series of artistic research practices that use the smartphone and its camera to explore and test bodily-sensorial limits and affordances
-4. create audio-visual documentation of these practice-based practices and share online
+4. create audio-visual documentation of these practice-based practices and share online 
 5. develop reflective-analytical document that describes the physical experiences (limits and affordances) generated in the practices
 
 _RQ3 Adaptation and Generation:_
