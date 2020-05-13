@@ -36,23 +36,18 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is evidence that our health is compromised by smartphone overuse. These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness. We aim to re-configure this paradox by expanding the possibilities of the human-smartphone experience. We will use the corporeal expertise of dancers in fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help re-imagine the habitual use of smartphones. We will analyse the experiments auto-ethnographically, and thereby deepen our experiential understanding of the inter-relationships between smartphones, movement and stillness.
+There is evidence that our health is compromised by smartphone overuse. These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness. The research re-configures this paradox by seeking to expand the corporeal possibilities of human-smartphone experiences. We will use the body-based expertise of dancers in fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help re-imagine the habitual use of smartphones. The research aims to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. 
 
 
-_questions to think through_
+and exists between the disciplines of dance and somatic practices and human computer interaction. 
 
-1. is the aim clear?
-2. why does this research need to happen?
-3. what problem(s) does this research uncover or aim to solve?
 
-regarding last two questions to think through:
-
->I don’t think you have addressed these? You start by saying that’ our physical and psychological well-being is compromised by overuse of smartphones’  which suggests that is the focus of the enquiry – (a) why the research needs to happen and (b) is the problem the research aims to solve.  But I don’t think that you take that up again in the design and questions? - CW
+>You start by saying that’ our physical and psychological well-being is compromised by overuse of smartphones’  which suggests that is the focus of the enquiry – (a) why the research needs to happen and (b) is the problem the research aims to solve.  But I don’t think that you take that up again in the design and questions? - CW
 
 
 #### Research Aim
 
-Human bodies are predisposed for movement, while smartphones demand attention through chronic stillness. _Moving Camera Bodies_ aims to re-configure this paradox by expanding the possibilities of the human-smartphone experience. That is, by examining a) how human movement and stillness is shaped by smartphones; and b) how our bodies might help re-imagine the habitual use of smartphones.
+The research aims to use dance movement specialists to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. 
 
 
 #### research questions
@@ -60,7 +55,9 @@ Human bodies are predisposed for movement, while smartphones demand attention th
 1. _Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
 2. _Limits and affordances:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
 3. _Adaptation and generation:_ How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
-4. _Non-visual senses:_ The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this dominant and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
+4. _Non-visual senses:_ The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this hegemonic and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
+
+
 
 
 ### why the Leverhulme Trust?
@@ -342,6 +339,13 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+
+_questions to think through_
+
+1. is the aim clear?
+2. why does this research need to happen?
+3. what problem(s) does this research uncover or aim to solve?
 
 The dance movement specialists will participate in field experiments designed to examine body-smartphone limitations and affordances. 
 
