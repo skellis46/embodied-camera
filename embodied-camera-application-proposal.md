@@ -36,16 +36,13 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is growing evidence that our physical and psychological well-being is compromised by overuse of smartphones. These compromises are underpinned by a paradox: human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness. _Moving Camera Bodies_ is speculative research that aims to examine how our bodies and smartphones currently meet and effect each other, and to experiment with how they _might_ meet and effect each other. It will use the expertise of dance movement specialists to develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that demands stillness and attention. The research will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the corporeal inter-relationships between smartphones, vision, proprioception, movement and stillness.
+There is evidence that our health is compromised by overuse of smartphones. These compromises are underpinned by a paradox: human bodies are predisposed for movement, while smartphone screens demand attention made possible by chronic stillness. _Moving Camera Bodies_ employs the unique corporeal expertise of dancers to explore the ways human movement and stillness are shaped by smartphones, and how our bodies might help extend or re-imagine the ways we use smartphones. The project team will develop practical field experiments that explore these contradictory cultural technologies and experiences: the body that needs movement, and the smartphone that demands stillness and attention. We will then use auto-ethnographic methods to analyse the practice-based experiments, and thereby deepen our understanding of the  inter-relationships between smartphones, vision, proprioception, movement and stillness.
 
 _questions to think through_
 
 1. is the aim clear?
 2. why does this research need to happen?
 3. what problem(s) does this research uncover or aim to solve?
-
-
->I really like this reference to stillness in your abstract – but oddly it does not seem to me to be taken through in your research design.  It is probably just the way I read it, the research design seems to be about moving bodies. -- CW
 
 regarding last two questions to think through:
 
@@ -164,15 +161,15 @@ In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly 
 
 Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
 
-**Research Aim**
+#### Research Aim
 
 To examine how our bodies and smartphones currently meet and effect each other, and to imagine new possibilities for how they _might_ meet and effect each other
 
->Is it effecting each other?  Or is it the body being effected? -- CW
+>Is it effecting each other? Or is it the body being effected? -- CW
 
 - not sure about the word "meet" here (and "interact" is not right -- or would make people think of interactivity)
 
->‘meet’ suggests the smartphone has a say in the matter!  Although I think it is OK here - CW
+>‘meet’ suggests the smartphone has a say in the matter! Although I think it is OK here - CW
 
 #### research questions
 
@@ -216,6 +213,8 @@ _RQ4 Non-visual senses:_
 #### significance
 
 #### methods
+
+>I really like this reference to stillness in your abstract – but oddly it does not seem to me to be taken through in your research design.  It is probably just the way I read it, the research design seems to be about moving bodies. -- CW
 
 - thoughts on building visual anthropological methods here?
 
@@ -347,6 +346,7 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 # edit bin
 
+ currently meet and effect each other, and to experiment with how they _might_ meet and effect each other
 
 #### publication of results
 
