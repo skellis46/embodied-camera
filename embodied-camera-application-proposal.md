@@ -36,7 +36,7 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is evidence that our health is compromised by smartphone overuse. These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness. The research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences. We will use the body-based expertise of dancers in fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. The research aims to deepen understanding and experiential awareness of the inter-relationships between smartphones and movement, vision, proprioception and stillness. 
+There is evidence that our health is compromised by smartphone overuse. These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness. This research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences. We will use the body-based expertise of dancers in practice-led fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. The research aims to deepen understanding and experiential awareness of the inter-relationships between smartphones and movement, vision, proprioception and stillness. 
 
 
 ### why the Leverhulme Trust?
@@ -49,7 +49,7 @@ There is evidence that our health is compromised by smartphone overuse. These co
 - this is experiential (and experimental) qualitative.
 - founded in unlikely combination
 - part of speculation is in methods and outcomes
-
+- OA -- e.g. git repository for all writing processes
 
 and exists between the disciplines of dance and somatic practices and human computer interaction. 
 
@@ -132,9 +132,9 @@ Its screen (device as screen) is also a lens. Turned back on ourselves (third-pe
 
 screens today are "methods for the management of attention that use partitioning and sedentarization, rendering bodies controllable and useful simultaneously, even as they simular the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
 
->proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper-albright_how_2019 p.62] 
+>proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper_albright_how_2019 p.62] 
 
->Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world.[@cooper-albright_how_2019 p.63] 
+>Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world.[@cooper_albright_how_2019 p.63] 
 
 'tools' for speculative exploration into _human experiences with everyday technology_
 
@@ -176,7 +176,7 @@ _Feeling:_
 
 _RQ1 Feeling:_
 
-1. generate ethnographic data from movement specialists that create a vocabulary exploring how it feels to use a smartphone
+1. capture ethnographic data from movement specialists that create a vocabulary exploring how it feels to use a smartphone
 2. survey current sociological (and HCI?) literature that examines experiences of smartphone use
 
 _RQ2 Limits and affordances:_
@@ -189,14 +189,14 @@ _RQ3 Adaptation and Generation:_
 
 6. generate a series of artistic research somatic practices that sensitise our bodies to the smartphone
 7. create a set of body-based somatic 'activities' that up-end our moving and bodily relationship to the smartphone
-8. create audio-visual documentation of these practice-based experiments and share online
+8. create edited audio-visual documentation of these practice-based experiments and share online
 9. develop reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone
 
 _RQ4 Non-visual senses:_
 
 10. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
 11. generate a set of artistic research experiments that explore the tension between sensate strategies (e.g. body-based or 'felt' movement practices) and the hyper-visuality of smartphones
-12. create audio-visual documentation of these practice-based experiments and share online
+12. create edited audio-visual documentation of these practice-based experiments and share online
 13. develop reflective-analytical document that explores the intersection of non-visual (corporeal) senses and hyper-visuality 
 
 #### significance
@@ -253,7 +253,7 @@ _notes:_
 2. annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera. This collection will be recorded, transcribed, organised and uploaded to project website (_RQ2 Limits and affordances_)
 3. audio-visual document of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smartphone. The practices will be recorded, transcribed, organised and uploaded to the project website (_RQ3 Adaptation and generation_)
 4. experimental film or "screendance" developed from practices in _RQ2_ and _RQ3_
-5. video essay that examines the non-visual and visual binary central to the body-smartphone paradox (_RQ4 Non-visual senses_))
+5. video essay that examines the non-visual and visual binary central to the body-smartphone paradox (_RQ4 Non-visual senses_)) -- what we see, what we feel in our bodies. visual perception. felt sensation.
 6. project website, project blog (_RQ1-4_)
 
 
