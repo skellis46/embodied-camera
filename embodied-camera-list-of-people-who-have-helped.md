@@ -8,3 +8,4 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Amy Tan
 - Rosemary Cisneros
 - Rowan McLelland
+- Yvonne Rogers
