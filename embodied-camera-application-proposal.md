@@ -74,6 +74,7 @@ We live glued to our screens in a "smartphone society".[@ofcom_communications_20
 
 statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
 
+In dance training: the body that is seen and the body that is felt. 
 
 
 
@@ -95,9 +96,11 @@ Quantitative and qualitative research on smartphones and our _embodied lives_ ha
 
 focus on "narrating the experience of users"[@galloway_paucity_2020 n.pag.] -- as in the work of Turkle.
 
-**phone also as saviour to stillness**: https://www.mdpi.com/1424-8220/18/3/874 (!)
+**phone also as saviour to stillness** (fitness, mindfulness) "there's an app for that": https://www.mdpi.com/1424-8220/18/3/874 (!) (Sesame Street: https://www.youtube.com/watch?v=EhkxDIr0y2U)
 reduced proprioception: https://www.biomedres.info/biomedical-research/impact-of-smartphone-usage-on-cervical-proprioception-and-balance-in-healthy-adults-10504.html
 cognitive capacity: https://www.journals.uchicago.edu/doi/abs/10.1086/691462
+
+distinguish from the smartphone as object that conveys information, but rather as a physical oculo-centric device that we are physically connected to (that we hold, swipe) -- that we manage through gesture, posture. 
 
 on walking and listening: https://link.springer.com/chapter/10.1007/978-3-319-40548-3_31
 our attention is compromised: hyman-2010-did.pdf (loads of evidence)
@@ -130,7 +133,7 @@ between the device that has become the centre of our technological lives, and ou
 Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
 
 
-screens today are "methods for the management of attention that use partitioning and sedentarization, rendering bodies controllable and useful simultaneously, even as they simular the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
+screens today are "methods for the management of attention that use partitioning and sedentarization, rendering bodies controllable and useful simultaneously, even as they simulate the illusion of choices and 'interactivity'"[@crary_suspensions_2001 p.75]
 
 >proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper_albright_how_2019 p.62] 
 
