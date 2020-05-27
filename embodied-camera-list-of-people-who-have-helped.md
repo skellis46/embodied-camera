@@ -9,3 +9,6 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Rosemary Cisneros
 - Rowan McLelland
 - Yvonne Rogers
+- Katrina McPherson
+- Owa Barua
+- Natalia Barua
