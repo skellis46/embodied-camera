@@ -186,7 +186,7 @@ The research aims to use dance movement specialists to deepen understanding of t
 
 creates We see ourselves and others through and in it. Senses are about communicate and connect/interact with environment and others around us. How might this hegemonic and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
 
-Examine the sensory and communicative 
+Examine the sensory and communicative possibilities
 
 [^cl6]: _Something that is not so much addressed here is how the smartphone and its mirror quality or rather how we want to be perceived by others and the self-image perspective is affecting how we move with our bodies. There is a separation between what we see and what we feel which potentially (but not necessarily if we work with this in awareness) can disconnect us more from our bodies as there is an externalisation of ourselves in the mirror._
 
