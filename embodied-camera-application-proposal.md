@@ -38,7 +38,7 @@ As standard (UKRI), in a year there are
 
 There is evidence that our health is diminished by smartphone overuse due to "inattentional blindness":[@hyman_did_2009 p.598] the everyday discrepancy between the movement of our bodies and the location of our attention. The smartphone is an oculo-centric device that determines how we communicate with and see others, and how we want to be seen by others. Therefore, it compromises 
 
-As we connect, we disconnect.
+As we connect with the screen, the camera, and with others, we disconnect from our other senses and our environment. Our attention is swallowed by the fourth-screen.
 
 Vision dominates human experience, and the smartphone -- as both screen and mirror -- manages our attention.[@crary_suspensions_2001] As our bodies that are predisposed to perceive and experience the world through movement wander aimlessly, our attention is seized by the oculo-centric smartphone. 
 
@@ -84,33 +84,12 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We live glued to our screens in a "smartphone society".[@ofcom_communications_2017] In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is the ubiquitous technological extension to our body. Greeted with pleasure, scepticism, angst and joy, it is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005]; they are "extensions of man"[@galloway_paucity_2020 n.pag.] the smartphone .. then the smartphone seems to direct our attention inwards. The smartphone is a device characterised by, or synonymous with, its screen; it is both lens and mirror, and its pleasure and power is at least in part made possible by how its oculo-centricity shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
+We are glued to our screens in a "smartphone society".[@ofcom_communications_2017] The smartphone is a hyper-visual hyper-portable device synonymous with its screen and camera. It is both lens and mirror. It is always-with-us and always-on, and with it we record what we see, how we want to be seen and what we do, and then we share these video-visions with the people in and around our lives. The smartphone shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
-statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
-
-CL: _It might be useful to clarify that what is also of interests in this project is the fact that with the smartphone we have a portable camera on us all the time that can record everything we see and that can record us and what we do and share it with others. As well as being a portable camera it is also a mobile computer and phone so the camera and images become a direct way to communicate with each other than just talking or writing. And what for me is important is that although the camera overemphasizes the importance of the visual, the other senses are present in the use of the visual as it is not just the eyes who records but the whole body. So I think the research in that way is about how we see with all of our body not just the eyes which goes with expanding the corporeal possibilities of human-smartphone experiences._
-
-In dance training: the body that is seen and the body that is felt. 
+In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is greeted with pleasure, scepticism, angst and joy, and is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017] Whereas technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005], the smartphone seems to narrow our attention, or direct it inwards. These devices produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604].
 
 
 
->In particular, people using a cell phone may be less likely to notice new and distinctive stimuli, a phenomenon known as inattentional blindness (Becklen & Cervone, 1983; Mack & Rock, 1998; Neisser & Becklen, 1975; Newby & Rock, 1998; Simons, 2000; Simons & Chabris, 1999).[@hyman_did_2009 p.598]
-
->We found that individuals walking while talking on a cell phone displayed inattentional blindness in a real-world situation. They experienced more difficulty navigating through a complex environment than people in other conditions. They walked slower, weaved more often, and made more direction changes. Finally, they were less likely to acknowledge other individuals and to notice the unicycling clown thus illustrating inattentional blindness.[@hyman_did_2009 p.604]
-
->One of the most dangerous aspects of cell phone divided attention is that affected individuals remain oblivious to their poor performance. Strayer et al. (2006) reported that cell phone participants were unaware of the conversation’s detrimental effects because the participants felt that they performed fine even though they had just displayed problems (see also Lesch & Hancock, 2004). Similarly, many individuals with whom we have talked feel they can perform divided attention tasks such as using a cell phone and driving. However, we cannot trust these claims because people are not aware of the things they miss because of inattentional blindness. Simons and Chabris (1999) noted that when participants were shown what they had missed because of inattentional blindness, they were surprised that they could have missed it.[@hyman_did_2009 p.605]  
-
-what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
-
->As if part of a dance improvisation, any tool gathers it’s meaning only within a sphere of activity and consequently reconfigures the parameters of meaningful activity in that environment.[@kolcio_somatic_2005 p.107]
-
--- what might be alternate parameters of meaningful activity in the bodily-smartphone 'environment'?
-
-"heightened awareness of the context, coupled with accountability in action"[@kolcio_somatic_2005 p.106]
-
-Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017]. Adjust this sentence -- also about attention.
-
-focus on "narrating the experience of users"[@galloway_paucity_2020 n.pag.] -- as in the work of Turkle.
 
 **phone also as saviour to stillness** (fitness, mindfulness) "there's an app for that": https://www.mdpi.com/1424-8220/18/3/874 (!) (Sesame Street: https://www.youtube.com/watch?v=EhkxDIr0y2U)
 reduced proprioception: https://www.biomedres.info/biomedical-research/impact-of-smartphone-usage-on-cervical-proprioception-and-balance-in-healthy-adults-10504.html
@@ -122,6 +101,28 @@ on walking and listening: https://link.springer.com/chapter/10.1007/978-3-319-40
 our attention is compromised: hyman-2010-did.pdf (loads of evidence)
 
 on couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
+
+statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
+
+
+
+CL _And what for me is important is that although the camera overemphasizes the importance of the visual, the other senses are present in the use of the visual as it is not just the eyes who records but the whole body. So I think the research in that way is about how we see with all of our body not just the eyes which goes with expanding the corporeal possibilities of human-smartphone experiences._
+
+In dance training: the body that is seen and the body that is felt. 
+
+
+
+
+
+what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+
+>As if part of a dance improvisation, any tool gathers it’s meaning only within a sphere of activity and consequently reconfigures the parameters of meaningful activity in that environment.[@kolcio_somatic_2005 p.107]
+
+-- what might be alternate parameters of meaningful activity in the bodily-smartphone 'environment'?
+
+"heightened awareness of the context, coupled with accountability in action, can be felt as a ‘connection’ to the world."[@kolcio_somatic_2005 p.106]
+
+
 
 Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
@@ -360,6 +361,18 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+focus on "narrating the experience of users"[@galloway_paucity_2020 n.pag.] -- as in the work of Turkle.
+
+
+
+CL: _It might be useful to clarify that what is also of interests in this project is the fact that with the smartphone we have a portable camera on us all the time that can record everything we see and that can record us and what we do and share it with others. As well as being a portable camera it is also a mobile computer and phone so the camera and images become a direct way to communicate with each other than just talking or writing._ 
+
+>In particular, people using a cell phone may be less likely to notice new and distinctive stimuli, a phenomenon known as inattentional blindness (Becklen & Cervone, 1983; Mack & Rock, 1998; Neisser & Becklen, 1975; Newby & Rock, 1998; Simons, 2000; Simons & Chabris, 1999).[@hyman_did_2009 p.598]
+
+>We found that individuals walking while talking on a cell phone displayed inattentional blindness in a real-world situation. They experienced more difficulty navigating through a complex environment than people in other conditions. They walked slower, weaved more often, and made more direction changes. Finally, they were less likely to acknowledge other individuals and to notice the unicycling clown thus illustrating inattentional blindness.[@hyman_did_2009 p.604]
+
+>One of the most dangerous aspects of cell phone divided attention is that affected individuals remain oblivious to their poor performance. Strayer et al. (2006) reported that cell phone participants were unaware of the conversation’s detrimental effects because the participants felt that they performed fine even though they had just displayed problems (see also Lesch & Hancock, 2004). Similarly, many individuals with whom we have talked feel they can perform divided attention tasks such as using a cell phone and driving. However, we cannot trust these claims because people are not aware of the things they miss because of inattentional blindness. Simons and Chabris (1999) noted that when participants were shown what they had missed because of inattentional blindness, they were surprised that they could have missed it.[@hyman_did_2009 p.605]  
 
 [^cl1]: _What does the research say on this? And where does it come from, that is to say which discipline, which questions are being asked? I’m not familiar with it myself but depending on its content it could be useful to work with or against it._
 
