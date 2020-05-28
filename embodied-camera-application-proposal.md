@@ -36,8 +36,18 @@ As standard (UKRI), in a year there are
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is evidence that our health is compromised by smartphone overuse. These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness. This research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences. We will use the body-based expertise of dancers in practice-led fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. The research aims to deepen understanding and experiential awareness of the inter-relationships between smartphones and movement, vision, proprioception and stillness. 
+There is evidence that our health is compromised by smartphone overuse.[^cl1] These compromises are built on a paradox: human bodies are predisposed for movement, while smartphones demand attention through stillness.[^cl2] This research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences.[^cl3] We will use the body-based expertise of dancers in practice-led fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. The research aims to deepen understanding and experiential awareness of the inter-relationships between smartphones and movement, vision,[^cl4] proprioception and stillness. 
 
+
+CL: _It might be useful to clarify that what is also of interests in this project is the fact that with the smartphone we have a portable camera on us all the time that can record everything we see and that can record us and what we do and share it with others. As well as being a portable camera it is also a mobile computer and phone so the camera and images become a direct way to communicate with each other than just talking or writing. And what for me is important is that although the camera overemphasizes the importance of the visual, the other senses are present in the use of the visual as it is not just the eyes who records but the whole body. So I think the research in that way is about how we see with all of our body not just the eyes which goes with expanding the corporeal possibilities of human-smartphone experiences._
+
+[^cl1]: _What does the research say on this? And where does it come from, that is to say which discipline, which questions are being asked? I’m not familiar with it myself but depending on its content it could be useful to work with or against it._
+
+[^cl2]: _I don’t think stillness is the right word to describe what smartphone really do to our bodies and its impact on movement. I feel it is more a problem of attention and disconnection from the body and the environment. So often I see people who are walking in the streets, so who are in movement but who are completely unaware of what’s around them in the environment as they are totally absorbed in their phones. Rather than a problem of stillness I see it more as a problem of attention and presence and disconnection from attention, body, movement and the environment that surrounds us. Also let’s not forget that the other name of the smartphone is the ‘mobile’ phone which also expresses that idea of having a computer on the go and therefore facilitating certain movements of the body while digitally interacting in a way which would not be possible with desktop or laptop computers. For me, there is more something to do with how the smartphone somehow disembody us and reduce/narrow our attention to what we see on the screen. Vision dominates. The mind and body are more acutely separated. We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses._ 
+
+[^cl3]: _This is really nice and it is an improvement from the previous abstract which is more in line with what funding bodies will want to see. I wonder if there is a way to emphasize more its importance and need. It would be useful for example to be aware of projects which are successfully combining a somatic reflection of embodiment with dancers in combination with technological innovation or whether they are research projects on technological innovation pointing to the need for more integration of body intelligence._ 
+
+[^cl4]: _Vision comes here as an add-on without much explanation it might be good to make it clearer what is the importance of vision in relation to the smartphone._
 
 ### why the Leverhulme Trust?
 
@@ -163,15 +173,22 @@ Our bodies are built for movement. Human beings -- and the bodies we inhabit -- 
 
 #### Research Aim
 
-The research aims to use dance movement specialists to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. 
+The research aims to use dance movement specialists to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. [add 'senses']
 
 
 #### research questions
 
 1. _Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
-2. _Limits and affordances:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
-3. _Adaptation and generation:_ How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
-4. _Non-visual senses:_ The smartphone is both camera (lens) and mirror. We see ourselves and others through and in it. How might this hegemonic and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
+
+2. _Limits and adaptation:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
+
+3. _Senses and communication:_ The smartphone is both camera (lens) and mirror. It is a device through which we perceive and create ourselves and communicate and interact with the environment and others. 
+
+creates We see ourselves and others through and in it. Senses are about communicate and connect/interact with environment and others around us. How might this hegemonic and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
+
+Examine the sensory and communicative 
+
+[^cl6]: _Something that is not so much addressed here is how the smartphone and its mirror quality or rather how we want to be perceived by others and the self-image perspective is affecting how we move with our bodies. There is a separation between what we see and what we feel which potentially (but not necessarily if we work with this in awareness) can disconnect us more from our bodies as there is an externalisation of ourselves in the mirror._
 
 #### objectives
 
@@ -338,6 +355,8 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 # edit bin
 
+
+What types of experiences are generated when the smartphone and its camera are consciously used to inform, disrupt and complicate the corporeal-sensorial possibilities of the body? 
 
 _questions to think through_
 
