@@ -84,37 +84,28 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-We are glued to our screens in a "smartphone society".[@ofcom_communications_2017] The smartphone is a hyper-visual hyper-portable device synonymous with its screen and camera. It is both lens and mirror. It is always-with-us and always-on, and with it we record what we see, how we want to be seen and what we do, and then we share these video-visions with the people in and around our lives. The smartphone shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
+_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and be connected to our bodies as organisms of movement; between hyper-visuality and the sensate or felt.
 
-In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is greeted with pleasure, scepticism, angst and joy, and is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017] Whereas technologies commonly and historically extend our senses outwards,[@davidson_somatics_2013; @kolcio_somatic_2005], the smartphone seems to narrow our attention, or direct it inwards. These devices produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604].
+We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is a hyper-visual and hyper-portable device that is synonymous with its screen and camera. It is always-with-us and always-on, and with it we record what we see, how we want to be seen and what we do, and then we share these video-visions with the people in our lives. The smartphone is both lens and mirror; it shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
+In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Smartphones compromise our listening,[@stephanidis_effects_2016] cognitive capacity[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013; @kolcio_somatic_2005] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604].
 
+The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The projects aims, objectives and methods are derived from the proposition that as our attention is compressed into the smartphone, we are drawn away from our bodies. problem: something about changing nature of movement and postural experiences. to understand or assay changes at the intersection of devices as camera-objects and our bodies that are built for movement. 
 
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
-**phone also as saviour to stillness** (fitness, mindfulness) "there's an app for that": https://www.mdpi.com/1424-8220/18/3/874 (!) (Sesame Street: https://www.youtube.com/watch?v=EhkxDIr0y2U)
-reduced proprioception: https://www.biomedres.info/biomedical-research/impact-of-smartphone-usage-on-cervical-proprioception-and-balance-in-healthy-adults-10504.html
-cognitive capacity: https://www.journals.uchicago.edu/doi/abs/10.1086/691462
-
-distinguish from the smartphone as object that conveys information, but rather as a physical oculo-centric device that we are physically connected to (that we hold, swipe) -- that we manage through gesture, posture. 
-
-on walking and listening: https://link.springer.com/chapter/10.1007/978-3-319-40548-3_31
-our attention is compromised: hyman-2010-did.pdf (loads of evidence)
-
-on couple of sentences here about what work has been done: previous work focused on effects of smartphones on our bodies, vision. 
-
-statement here about assumption that as we are drawn inwards, we are drawn away from our bodies? hunch/proposition
-
-
-
-CL _And what for me is important is that although the camera overemphasizes the importance of the visual, the other senses are present in the use of the visual as it is not just the eyes who records but the whole body. So I think the research in that way is about how we see with all of our body not just the eyes which goes with expanding the corporeal possibilities of human-smartphone experiences._
-
-In dance training: the body that is seen and the body that is felt. 
-
-
-
-
+In dance training: the body that is seen and the body that is felt. That we _see_ with our whole bodies. (expanding corporeal possibilities) 
 
 what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+
+In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone attention machine as experienced by us all, and the body as experienced by dance movement specialists. In _Moving Camera Bodies_ we propose an experimental point of convergence between the smartphone and the sensorial capabilities of the dancer. what becomes possible? to not limit the functions and experiences of our interface with these technologies
+
+"to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110] -- proposal is to imagine and examine other relationships with this technology. To expand the possibilities of our relationship. 
+
+
+'tools' for speculative exploration into _human experiences with everyday technology_
+
+
 
 >As if part of a dance improvisation, any tool gathers it’s meaning only within a sphere of activity and consequently reconfigures the parameters of meaningful activity in that environment.[@kolcio_somatic_2005 p.107]
 
@@ -124,63 +115,25 @@ what can these specialists offer? other ways of being with the device? alternati
 
 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
-is ACA’s discussion of “back space” (pp.98-99) (and Bonnie’s BMC work — CQs) useful here?  
 
-State that inside out, opposite of outside in of smartphone
+State that inside out, opposite of outside in of smartphone (through vision)
 
 couple of sentences about relationship of somatics to tech -- focused on what? 
 
-Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
-- not out of fear (Kolcio, p.109), not because threatened, or wanting to limit the smartphone. but out of sheer curiosity -- what becomes possible? to not limit the functions and experiences of our interface with these technologies
 
-"to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110]
 
-"[Heidegger] suggests that modern technology is not simply a tool or instrument, but a pervasive cultural epistemological paradigm."[@kolcio_somatic_2005 p.110] - then look into enframing.
+
 
 >This split does not simply separate our bodies from our minds and favor mind over body ... [it] removes us from the experience of our bodies and dis- connects us from our own inner proprioceptive signals as well as from our somas and living processes ... there is an active obsession with the body as an objective mechanical entity. As a result we are often numbed to the awareness of internal body messages and the power of our connected selves.[Green, in @kolcio_somatic_2005 p.111]
 
-In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone as experienced by us all, and the body as experienced by dance movement specialists. In _Moving Camera Bodies_ we propose an experimental point of convergence between the smartphone and the sensorial capabilities of the dancer. 
 
 
-
-between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here 
-
-Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
-
-
-
-
->proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper_albright_how_2019 p.62] 
-
->Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world.[@cooper_albright_how_2019 p.63] 
-
-'tools' for speculative exploration into _human experiences with everyday technology_
-
-problem: something about changing nature of movement and postural experiences. to understand or assay changes at the intersection of devices as camera-objects and our bodies that are built for movement. 
-
-_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement; between hyper-visuality and the sensate or felt; between our flesh and our device-objects; between the body and data.
-
-In _Moving Camera Bodies_ we apply 
-
-
-Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
-
-problem: something about changing nature of movement and postural experiences. to understand or assay changes at the intersection of devices as camera-objects and our bodies that are built for movement. 
-problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
-
-In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly unseeing -- lens to hyper-visuality and staticity as expressed through and afforded by the smartphone.
-
-- improvisation: unforseen. less visual
-- Cooper-Albright p.76 - ambiguity of the unknown
-- 
-
-Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
+In _Moving Camera Bodies_ we apply a physical and sensate -- and thereby mostly unseeing -- lens to hyper-visuality and inattention as expressed through and afforded by the smartphone.
 
 #### Research Aim
 
-The research aims to use dance movement specialists to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. [add 'senses']
+The research aims to use dance movement specialists to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and stillness. [add 'senses'] This research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences.
 
 
 #### research questions
@@ -228,11 +181,11 @@ _RQ4 Non-visual senses:_
 
 #### significance
 
+Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
+
+>the lack of integration becomes abundantly clear when students in my classes comment on how wonderful it feels to "be in my body three times a week." This odd expression occurs with such regularity that I have been forced to confront the obvious question: where are they the rest of the time? This is not simply my own (admittedly old school) belief in the importance of live communication, but is indicative of precisely what Crary pointed out in his analysis of modern attention---a situation where we navigate the world via screens (and think we are technologically astute) even though in the process we become less aware of our full, three-dimensional physicality. When my students say they are happy to _be in their bodies_ three times a week, I believe they are actually referring to a heightened awareness of their own [p.63] proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper_albright_how_2019 p.62]
+
 #### methods
-
->I really like this reference to stillness in your abstract – but oddly it does not seem to me to be taken through in your research design.  It is probably just the way I read it, the research design seems to be about moving bodies. -- CW
-
-- thoughts on building visual anthropological methods here?
 
 - rationale: why this method? what do we get from it? 
     + experiential 
@@ -267,7 +220,7 @@ _RQ4 Non-visual senses:_
 - audio-visual documentation
 
 
-### planned outputs (possible) - how results will be published
+### publication of results
 
 _notes:_
 
@@ -361,6 +314,46 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+- not out of fear (Kolcio, p.109), not because threatened, or wanting to limit the smartphone. but out of sheer curiosity -- 
+
+>I really like this reference to stillness in your abstract – but oddly it does not seem to me to be taken through in your research design.  It is probably just the way I read it, the research design seems to be about moving bodies. -- CW
+
+- improvisation: unforseen. less visual
+- Cooper-Albright p.76 - ambiguity of the unknown
+- 
+
+Our bodies are built for movement. Human beings -- and the bodies we inhabit -- respond physiologically, biochemically and psychologically to movement. We are also built to be stimulated by -- and respond to -- novelty (write something here in relation to attention economy). A by-product of these stimuli is chronic stillness, or staticity. Needs something here about camera/screen -- and identity.  _Moving Camera Bodies_ 
+
+
+is ACA’s discussion of “back space” (pp.98-99) (and Bonnie’s BMC work — CQs) useful here?  
+
+problem: something about changing nature of movement and postural experiences. to understand or assay changes at the intersection of devices as camera-objects and our bodies that are built for movement. 
+problem: to investigate this friction. The friction is cultural; the friction is contemporary; the friction is taking over the world. 
+
+>proprioception, an important perceptual alternative to our vision, and one that is crucial for dealing with disorientation.[@cooper_albright_how_2019 p.62] 
+
+>Connecting bodies to space and people to place, proprioception helps us locate ourselves in the world.[@cooper_albright_how_2019 p.63] 
+
+
+
+"[Heidegger] suggests that modern technology is not simply a tool or instrument, but a pervasive cultural epistemological paradigm."[@kolcio_somatic_2005 p.110] - then look into enframing.
+
+CL _And what for me is important is that although the camera overemphasizes the importance of the visual, the other senses are present in the use of the visual as it is not just the eyes who records but the whole body. So I think the research in that way is about how we see with all of our body not just the eyes which goes with expanding the corporeal possibilities of human-smartphone experiences._
+
+between the device that has become the centre of our technological lives, and our capacity to sense and understand experiences of movement. There is tension here 
+
+Its screen (device as screen) is also a lens. Turned back on ourselves (third-person perspective). Device as screen, device as lens. 
+
+
+distinguish from the smartphone as object that conveys information, but rather as a physical oculo-centric device that we are physically connected to (that we hold, swipe) -- that we manage through gesture, posture. 
+
+
+**phone also as saviour to stillness** (fitness, mindfulness) "there's an app for that": https://www.mdpi.com/1424-8220/18/3/874 (!) (Sesame Street: https://www.youtube.com/watch?v=EhkxDIr0y2U)
+
+
+
+Quantitative and qualitative research on smartphones and our _embodied lives_ has focused on the idea of the quantified self,[@lupton_quantified_2016] and the ways in which "Smartphone Sensing Methods" are able to track social behaviours, physical activity and mobility patterns.[@harari_smartphone_2017] 
 
 focus on "narrating the experience of users"[@galloway_paucity_2020 n.pag.] -- as in the work of Turkle.
 
