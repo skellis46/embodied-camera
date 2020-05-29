@@ -13,45 +13,14 @@ Monday 5 July 2021
 
 ### total time to be spent on project by PI (hours per week)
 
-15 hours per week (for 18 months?) = total hours? 
-
-As standard (UKRI), in a year there are
-- 220 working days 
-- 44 working weeks
-- 5 days per week
-- 7.5 hours per day
-- 37.5 hours per week
-- 1650 hours per year
-
-7.5 hours per week (1 day) for 66 weeks
-= 495 hours
-
-1.5 days per week for 66 weeks 
-= 742.5
-
-15 hours (2 days) per week for 66 weeks
-= 990
+11.25 hour per week (1.5 days)
 
 ### abstract
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-There is evidence that our health is diminished by smartphone overuse due to "inattentional blindness":[@hyman_did_2009 p.598] the everyday discrepancy between the movement of our bodies and the location of our attention. The smartphone is an oculo-centric device that determines how we communicate with and see others, and how we want to be seen by others. Therefore, it compromises 
+The smartphone is a device that is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness":[@hyman_did_2009 p.598] a reduced capacity to respond to new stimuli. The smartphone thereby compromises our experience of the world through our bodily senses. We aim to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based sensorial expertise of dancers in practice-led fieldwork that explores: 1) how movement and senses are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. 
 
-As we connect with the screen, the camera, and with others, we disconnect from our other senses and our environment. Our attention is swallowed by the fourth-screen.
-
-Vision dominates human experience, and the smartphone -- as both screen and mirror -- manages our attention.[@crary_suspensions_2001] As our bodies that are predisposed to perceive and experience the world through movement wander aimlessly, our attention is seized by the oculo-centric smartphone. 
-
-
-We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses.
-
-disconnection between paradox: human bodies are predisposed to perceive and experience the world through movement, while smartphones demand attention through stillness. This research seeks to reconfigure this paradox by expanding the corporeal possibilities of human-smartphone experiences.[^cl3] We will use the body-based expertise of dancers in practice-led fieldwork that explores: 1) how movement and stillness are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. The research aims to deepen understanding and experiential awareness of the inter-relationships between smartphones and movement, vision,[^cl4] proprioception and stillness. 
-
-_I don’t think stillness is the right word to describe what smartphone really do to our bodies and its impact on movement. I feel it is more a problem of attention and disconnection from the body and the environment. So often I see people who are walking in the streets, so who are in movement but who are completely unaware of what’s around them in the environment as they are totally absorbed in their phones. Rather than a problem of stillness I see it more as a problem of attention and presence and disconnection from attention, body, movement and the environment that surrounds us. Also let’s not forget that the other name of the smartphone is the ‘mobile’ phone which also expresses that idea of having a computer on the go and therefore facilitating certain movements of the body while digitally interacting in a way which would not be possible with desktop or laptop computers. For me, there is more something to do with how the smartphone somehow disembody us and reduce/narrow our attention to what we see on the screen. Vision dominates. The mind and body are more acutely separated. We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses._ 
-
-[^cl3]: _This is really nice and it is an improvement from the previous abstract which is more in line with what funding bodies will want to see. I wonder if there is a way to emphasize more its importance and need. It would be useful for example to be aware of projects which are successfully combining a somatic reflection of embodiment with dancers in combination with technological innovation or whether they are research projects on technological innovation pointing to the need for more integration of body intelligence._ 
-
-[^cl4]: _Vision comes here as an add-on without much explanation it might be good to make it clearer what is the importance of vision in relation to the smartphone._
 
 ### why the Leverhulme Trust?
 
@@ -84,15 +53,15 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and be connected to our moving bodies.
+_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and be aware of our moving bodies.
 
 We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is a hyper-visual and hyper-portable device that is synonymous with its screen and camera. It is always-with-us and always-on, and with it we record what we see, how we want to be seen and what we do, and then we share these video-visions with the people in our lives. The smartphone is both lens and mirror; it shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
 In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Smartphones compromise our listening,[@stephanidis_effects_2016] cognitive capacity[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013; @kolcio_somatic_2005] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
 
-The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives and methods are derived from the proposition that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes."[Green, in @kolcio_somatic_2005 p.111]; and that this growing disconnect between attention and corporeal experience underpins the various ways in which smartphones are changing our lives. 
+The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives and methods are derived from the proposition that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes."[Green, in @kolcio_somatic_2005 p.111]; and that this growing split between attention and corporeal awareness underpins the various ways in which smartphones are changing our lives. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**add refs** Dancers are corporeal outliers. They represent the margins or (cutting) edge of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with our whole bodies -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**add refs** Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with our whole bodies -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
 what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
 
@@ -109,7 +78,7 @@ In _Moving Camera Bodies_ we apply a physical and sensate (felt) to hyper-visual
 
 #### Research Aim
 
-The research aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement, vision, proprioception and the senses. 
+The research aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses.  
 
 
 #### research questions
@@ -205,7 +174,7 @@ _notes:_
 - something about aesthetic, process-orientated (through creative practice), experiential and ethnographic 
 
 
-1. scholarly article that shares and juxtaposes key themes from interviews with key ideas from previous scholarship about relationship between smartphones and our bodies (_RQ1 feeling_)
+1. scholarly article that shares and juxtaposes key themes from qualitative interviews with key ideas from previous scholarship about relationship between smartphones and our bodies (_RQ1 feeling_)
 2. annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera. This collection will be recorded, transcribed, organised and uploaded to project website (_RQ2 Limits and affordances_)
 3. audio-visual document of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smartphone. The practices will be recorded, transcribed, organised and uploaded to the project website (_RQ3 Adaptation and generation_)
 4. experimental film or "screendance" developed from practices in _RQ2_ and _RQ3_
@@ -231,7 +200,7 @@ Mention mix of papers, screenings, films -- mixed modes.
 
 Ashley, T., Cherry, R., Pell, L., 2016. Embodiment and Digital Interactivity: Towards Posthuman Somatic Practices. Journal of Dance and Somatic Practices 8, 3–9. https://doi.org/10.1386/jdsp.8.1.3_2
 
-Barker, Jennifer M. The Tactile Eye: Touch and the Cinematic Experience. Berkeley: U of California P, 2009. Print.
+Barker, J. M., 2009. The Tactile Eye: Touch and the Cinematic Experience. Berkeley: U of California Press.
 
 Barua, O., Barua, N., McPherson, K., Ellis, S., 2016. We Record Ourselves.
 
@@ -239,16 +208,15 @@ Bédard, P., 2015. Disembodied Perspective: Third-Person Images in GoPro Videos.
 
 Cooper-Albright, A., 2019. How to Land: Finding Ground in an Unstable World. Oxford University Press, New York, NY, United States of America.
 
-Ellis, Simon, 2012. Through Screens. The International Journal of Screendance 2, 86–88.
+Ellis, S., 2012. Through Screens. The International Journal of Screendance 2, 86–88.
 
-Ellis, Simon, 2018. Between Faces. https://www.skellis.net/between-faces [Desktop presentation]
+Ellis, S., 2018. Between Faces. https://www.skellis.net/between-faces [Desktop presentation]
 
-Ellis, Simon, 2020. Two People Together. https://www.skellis.net/two-people-together [Screendance]
+Ellis, S., 2020. Two People Together. https://www.skellis.net/two-people-together [Screendance]
 
 Gil, J., Lepecki, A., 2006. Paradoxical Body. TDR: The Drama Review 50, 21–35.
 
 Hopkins, S., 2014. The Eye of the Hand: embodied Filmmaking as movement Practice, in: Bloom, K., Galanter, M., Reeve, S. (Eds.), Embodied Lives: Reflections on the Influence of Suprapto Suryodarmo and Amerta Movement. Triarchy, Axminster, Devon.
-
 
 Ingold, T., 2013. Making, Anthropology, Archaeology, Art and Architecture. Routledge, London.
 
@@ -266,7 +234,7 @@ Sheets-Johnstone, M., 2011. The primacy of movement, Expanded 2nd ed. ed, Advanc
 
 Simondon, G., 2012. Being and Technology. Edinburgh University Press, Edinburgh.
 
-Sobchack, Vivian. “Toward Inhabited Space: The Semiotic Structure of Camera Movement in the Cinema.” Semiotica 41.1–4 (1982): 317–35. Print.
+Sobchack, V. “Toward Inhabited Space: The Semiotic Structure of Camera Movement in the Cinema.” Semiotica 41.1–4 (1982): 317–35. Print.
 
 Sobchack, V. (2016) ‘The Scene of the Screen: Envisioning Photographic, Cinematic, and Electronic “Presence”,’ Post-Cinema: Theorizing 21st-Century Film. (eds.) Shane Denson & Julia Leyda. Sussex, UK: REFRAME Books. Retrieved from: www.reframe.sussex.ac.uk/post-cinema/2-1-sobchack/.
 
@@ -290,6 +258,24 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+_I don’t think stillness is the right word to describe what smartphone really do to our bodies and its impact on movement. I feel it is more a problem of attention and disconnection from the body and the environment. So often I see people who are walking in the streets, so who are in movement but who are completely unaware of what’s around them in the environment as they are totally absorbed in their phones. Rather than a problem of stillness I see it more as a problem of attention and presence and disconnection from attention, body, movement and the environment that surrounds us. Also let’s not forget that the other name of the smartphone is the ‘mobile’ phone which also expresses that idea of having a computer on the go and therefore facilitating certain movements of the body while digitally interacting in a way which would not be possible with desktop or laptop computers. For me, there is more something to do with how the smartphone somehow disembody us and reduce/narrow our attention to what we see on the screen. Vision dominates. The mind and body are more acutely separated. We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses._ 
+
+[^cl3]: _This is really nice and it is an improvement from the previous abstract which is more in line with what funding bodies will want to see. I wonder if there is a way to emphasize more its importance and need. It would be useful for example to be aware of projects which are successfully combining a somatic reflection of embodiment with dancers in combination with technological innovation or whether they are research projects on technological innovation pointing to the need for more integration of body intelligence._ 
+
+The smartphone is an oculo-centric device that determines . Therefore, it compromises 
+
+As we connect with the screen, the camera, and with others, we disconnect from our other senses and our environment. Our attention is swallowed by the fourth-screen.
+
+Vision dominates human experience, and the smartphone -- as both screen and mirror -- manages our attention.[@crary_suspensions_2001] As our bodies that are predisposed to perceive and experience the world through movement wander aimlessly, our attention is seized by the oculo-centric smartphone. 
+
+ due to 
+
+We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses.
+
+narrow our attention, and there is an increasingly normalised discrepancy between the constricted location of our attention and our experiential location in the world: between our moving bodies and our attention. 
+
+
 
 "to what extent are our experiences, and consequently the very knowledge by which we live, predetermined or prescribed by the technology itself?"[@kolcio_somatic_2005 p.110] -- proposal is to imagine and examine other relationships with this technology. To expand the possibilities of our relationship. 
 
