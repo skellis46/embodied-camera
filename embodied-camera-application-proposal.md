@@ -19,7 +19,7 @@ Monday 5 July 2021
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-The smartphone is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness":[@hyman_did_2009 p.598] a reduced capacity to respond to new stimuli. The smartphone thereby compromises our experience of the world through the body's senses. _Moving Camera Bodies_ aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based expertise of dancers in practice-led fieldwork to explore: 1) alternative physical patterns or habits in relation to the smartphone; and 2) new sensory and communicative possibilities for the body-smartphone nexus that are underpinned by the non-visual senses.
+The smartphone is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness":[@hyman_did_2009 p.598] The smartphone thereby compromises our sensorial experience of the world. _Moving Camera Bodies_ aims to expand the corporeal possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based expertise of dancers in practice-led fieldwork to explore: 1) alternative physical habits in relation to the smartphone; and 2) new sensory and communicative possibilities for the human-smartphone that are underpinned by the non-visual senses.
 
 ### why the Leverhulme Trust?
 
@@ -41,6 +41,8 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 >Research-creation does much more than what the funding agencies had in store for it: it generates new forms of experience; it tremulously stages an encounter for disparate practices, giving them a conduit for collective expression; it hesitantly acknowledges that normative modes of inquiry and containment often are incapable of assessing its value; it generates forms of knowledge that are extralinguistic. [@manning_minor_2016 p.27]
 
+"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
+
 ### other research commitments 
 
 >used for LT to decide if I have time to do the research 
@@ -58,7 +60,7 @@ In 2016 there were 3.9 billion smartphones globally, and by 2022 there will like
 
 The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives, methods and team are built on the proposition that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes."[Green, in @kolcio_somatic_2005 p.111]; and that this growing split between attention and corporeal awareness underpins the various ways in which smartphones are changing our lives. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**add refs** Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.[@eddy_brief_2009; @reed_conversation_2018] Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to the body. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
 In _Moving Camera Bodies_ we propose an experimental and methodological point of convergence between the smartphone and the sensorial capabilities of the dancer. This is to apply a physical and sensate (felt) speculative approach to hyper-visuality and inattention as expressed through and afforded by the smartphone. How might these corporeal specialists change our bodily relationship to the smartphone? To the extent that our experiences are "predetermined or prescribed"[@kolcio_somatic_2005 p.110] by technology, in _Moving Camera Bodies_ our proposal is to examine, test and imagine alternative corporealities, postures, sensitivities that expand the functions and experiences of our _embodied_ relationship to smartphone technologies. 
 
@@ -84,27 +86,23 @@ _RQ1 Feeling:_
 1. capture ethnographic data from movement specialists that create a vocabulary exploring how it feels to use a smartphone
 2. survey current sociological (and HCI?) literature that examines experiences of smartphone use
 
-_RQ2 Limits and affordances:_
+_RQ2 Limits and adaptation:_
 
-3. create a series of artistic research practices that use the smartphone and its camera to explore and test bodily-sensorial limits and affordances
-4. create audio-visual documentation of these practice-based practices and share online 
-5. develop reflective-analytical document that describes the physical experiences (limits and affordances) generated in the practices
+3. generate a series of artistic research somatic practices that sensitise our bodies to the smartphone
+4. create a set of body-based somatic 'activities' that up-end our moving and bodily relationship to the smartphone
+5. create edited audio-visual documentation of these practice-based experiments and share online
+6. develop reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone
 
-_RQ3 Adaptation and Generation:_
+_RQ4 Senses and communication:_
 
-6. generate a series of artistic research somatic practices that sensitise our bodies to the smartphone
-7. create a set of body-based somatic 'activities' that up-end our moving and bodily relationship to the smartphone
-8. create edited audio-visual documentation of these practice-based experiments and share online
-9. develop reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone
-
-_RQ4 Non-visual senses:_
-
-10. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
-11. generate a set of artistic research experiments that explore the tension between sensate strategies (e.g. body-based or 'felt' movement practices) and the hyper-visuality of smartphones
-12. create edited audio-visual documentation of these practice-based experiments and share online
-13. develop reflective-analytical document that explores the intersection of non-visual (corporeal) senses and hyper-visuality 
+7. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
+8. generate a set of artistic research experiments that explore the tension between sensate strategies (e.g. body-based or 'felt' movement practices) and the hyper-visuality of smartphones
+9. create edited audio-visual documentation of these practice-based experiments and share online
+10. develop reflective-analytical document that explores the intersection of non-visual (corporeal) senses and hyper-visuality 
 
 #### significance
+
+We are being changed by smartphones. The dance scholar Ann Cooper-Albright describes how students in her class tell her so regularly "how wonderful it feels to 'be in my body three times a week,'" that she has been "forced to confront the obvious question: where are they the rest of the time?"[@cooper_albright_how_2019 p.62] This discrepancy or rupture between attention, senses, the body and digital experience is at the heart of _Moving Camera Bodies_. The research matters because it is a radically experimental -- and indeed speculative -- approach to investigating how to change and expand the way the human body is in relationship to technologies. By drawing together  
 
 Where are we when we are in screen-time, and where else might we be while using smartphones? Experientially led. 
 
@@ -117,50 +115,39 @@ Where are we when we are in screen-time, and where else might we be while using 
     + understanding through doing (citation/evidence/precedent)
     + what we 'know' through dance practices (ie what dance understand might bring to the project)
 
-"somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
-
 _RQ1 Feeling:_
 
 - ethnographic interviews and analysis with four dancers/movement experts exploring their felt experiences of using smartphones
 - literature analysis
 
-
-_RQ2 Limits and affordances:_
-
-- artistic research (practice-research) fieldwork
-- auto-ethnographic reflections/analysis of the fieldwork experiments
-- audio-visual documentation
-
-_RQ3 Adaptation and generation:_
+_RQ2 Limits and adaptation:_
 
 - artistic research (practice-research) fieldwork
 - auto-ethnographic reflections/analysis of the fieldwork experiments
 - audio-visual documentation
 
-_RQ4 Non-visual senses:_
+_RQ3 Senses and communication:_
 
 - survey and analysis of cross-disciplinary scholarship
 - artistic research (practice-research) fieldwork
 - auto-ethnographic reflections/analysis of the fieldwork experiments
 - audio-visual documentation
 
-
 ### publication of results
 
-_notes:_
+The results of _Moving Camera Bodies_ will be published through traditional and non-traditional methods, and will be entirely Open Access: 
 
-- develop range of public facing (including non-traditional) research outputs
-- develop various writing practices (blog posting and traditional scholarship) that share key (emergent) ideas and communicate research understandings 
-- something about aesthetic, process-orientated (through creative practice), experiential and ethnographic 
+1. Scholarly journal article that shares and juxtaposes key themes from qualitative interviews with key ideas from previous scholarship about relationship between smartphones, attention, movement and senses (_RQ1 feeling_).
 
+2. Interview transcriptions will be openly accessible through project website (_RQ1 feeling_).
 
-1. scholarly article that shares and juxtaposes key themes from qualitative interviews with key ideas from previous scholarship about relationship between smartphones and our bodies (_RQ1 feeling_)
-2. annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera. This collection will be recorded, transcribed, organised and uploaded to project website (_RQ2 Limits and affordances_)
-3. audio-visual document of body-based practices or activities that question, expand and transform our conventional corporeal relationship to the smartphone. The practices will be recorded, transcribed, organised and uploaded to the project website (_RQ3 Adaptation and generation_)
-4. experimental film or "screendance" developed from practices in _RQ2_ and _RQ3_
-5. video essay that examines the non-visual and visual binary central to the body-smartphone paradox (_RQ4 Non-visual senses_)) -- what we see, what we feel in our bodies. visual perception. felt sensation.
-6. project website, project blog (_RQ1-4_)
+3. Annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera. This collection will be recorded, transcribed, organised and uploaded to project website (_RQ2 Limits and adaptation_).
 
+4. Audio-visual document of alternative sensory and communicative possibilities for the body-smartphone (_RQ3 Senses and communication_).
+
+5. Video essay that examines the expanded corporeal and sensate possibilities of human-smartphone experiences as revealed through the research (_RQ2-3_).
+
+6. Project website and blog designed to share key ideas and communicate research understandings as they emerge (_RQ1-3_).
 
 ### references 
 
@@ -176,9 +163,9 @@ _notes:_
 
 >demonstrate my knowledge of other papers published by other authors in this subject; give examples of current work being carried out
 
-Mention mix of papers, screenings, films -- mixed modes.
+The following publications contained traditional and non-traditional scholarship. This is designed to accurately represent the mixed-mode approach of _Moving Camera Bodies_. 
 
-Ashley, T., Cherry, R., Pell, L., 2016. Embodiment and Digital Interactivity: Towards Posthuman Somatic Practices. Journal of Dance and Somatic Practices 8, 3–9. https://doi.org/10.1386/jdsp.8.1.3_2
+Ashley, T., Cherry, R., Pell, L., 2016. Embodiment and Digital Interactivity: Towards Posthuman Somatic Practices. Journal of Dance and Somatic Practices 8, 3–9. <https://doi.org/10.1386/jdsp.8.1.3_2>
 
 Barker, J. M., 2009. The Tactile Eye: Touch and the Cinematic Experience. Berkeley: U of California Press.
 
@@ -190,15 +177,15 @@ Cooper-Albright, A., 2019. How to Land: Finding Ground in an Unstable World. Oxf
 
 Ellis, S., 2012. Through Screens. The International Journal of Screendance 2, 86–88.
 
-Ellis, S., 2018. Between Faces. https://www.skellis.net/between-faces [Desktop presentation]
+Ellis, S., 2018. Between Faces. <https://www.skellis.net/between-faces> [Desktop presentation]
 
-Ellis, S., 2020. Two People Together. https://www.skellis.net/two-people-together [Screendance]
+Ellis, S., 2020. Two People Together. <https://www.skellis.net/two-people-together> [Screendance]
 
 Gil, J., Lepecki, A., 2006. Paradoxical Body. TDR: The Drama Review 50, 21–35.
 
 Hopkins, S., 2014. The Eye of the Hand: embodied Filmmaking as movement Practice, in: Bloom, K., Galanter, M., Reeve, S. (Eds.), Embodied Lives: Reflections on the Influence of Suprapto Suryodarmo and Amerta Movement. Triarchy, Axminster, Devon.
 
-Ingold, T., 2013. Making, Anthropology, Archaeology, Art and Architecture. Routledge, London.
+Ingold, T., 2013. Making: Anthropology, Archaeology, Art and Architecture. Routledge, London.
 
 Loussouarn, C., 2017. Dancing with Nature Off the Leash, in: von Zinnenburg, K. (Ed.), Botanical Drift: Economic Botany and Its Plant Protagonist. Sternberg Press, Berlin, pp. 64–68.
 
@@ -219,7 +206,6 @@ Sobchack, V. “Toward Inhabited Space: The Semiotic Structure of Camera Movemen
 Sobchack, V. (2016) ‘The Scene of the Screen: Envisioning Photographic, Cinematic, and Electronic “Presence”,’ Post-Cinema: Theorizing 21st-Century Film. (eds.) Shane Denson & Julia Leyda. Sussex, UK: REFRAME Books. Retrieved from: www.reframe.sussex.ac.uk/post-cinema/2-1-sobchack/.
 
 Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
-
 
 
 ## co-applicants
