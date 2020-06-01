@@ -19,8 +19,7 @@ Monday 5 July 2021
 
 >please provide 100 word synopsis of the proposed research project, suitable for the lay reader
 
-The smartphone is a device that is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness":[@hyman_did_2009 p.598] a reduced capacity to respond to new stimuli. The smartphone thereby compromises our experience of the world through our bodily senses. We aim to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based sensorial expertise of dancers in practice-led fieldwork that explores: 1) how movement and senses are shaped by smartphones; and 2) how our bodies might help reimagine the habitual use of smartphones. 
-
+The smartphone is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness":[@hyman_did_2009 p.598] a reduced capacity to respond to new stimuli. The smartphone thereby compromises our experience of the world through the body's senses. _Moving Camera Bodies_ aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based expertise of dancers in practice-led fieldwork to explore: 1) alternative physical patterns or habits in relation to the smartphone; and 2) new sensory and communicative possibilities for the body-smartphone nexus that are underpinned by the non-visual senses.
 
 ### why the Leverhulme Trust?
 
@@ -53,47 +52,28 @@ these practices are not used in this way -- as a set of tools to understand cont
 
 ### proposal summary 
 
-_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and be aware of our moving bodies.
-
 We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is a hyper-visual and hyper-portable device that is synonymous with its screen and camera. It is always-with-us and always-on, and with it we record what we see, how we want to be seen and what we do, and then we share these video-visions with the people in our lives. The smartphone is both lens and mirror; it shapes our identities and sense of self.[@harkin_my_2020; @chan_exploration_2015] 
 
 In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] The smartphone is changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] Smartphones compromise our listening,[@stephanidis_effects_2016] cognitive capacity[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013; @kolcio_somatic_2005] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
 
-The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives and methods are derived from the proposition that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes."[Green, in @kolcio_somatic_2005 p.111]; and that this growing split between attention and corporeal awareness underpins the various ways in which smartphones are changing our lives. 
+The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives, methods and team are built on the proposition that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes."[Green, in @kolcio_somatic_2005 p.111]; and that this growing split between attention and corporeal awareness underpins the various ways in which smartphones are changing our lives. 
 
-Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**add refs** Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with our whole bodies -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
+Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.**add refs** Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to our bodies. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
 
-what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+In _Moving Camera Bodies_ we propose an experimental and methodological point of convergence between the smartphone and the sensorial capabilities of the dancer. This is to apply a physical and sensate (felt) speculative approach to hyper-visuality and inattention as expressed through and afforded by the smartphone. How might these corporeal specialists change our bodily relationship to the smartphone? To the extent that our experiences are "predetermined or prescribed"[@kolcio_somatic_2005 p.110] by technology, in _Moving Camera Bodies_ our proposal is to examine, test and imagine alternative corporealities, postures, sensitivities that expand the functions and experiences of our _embodied_ relationship to smartphone technologies. 
 
-
-'tools' for speculative exploration into _human experiences with everyday technology_ (expanding corporeal possibilities)
--- what might be "alternate parameters of meaningful activity"[@kolcio_somatic_2005 p.107] in the bodily-smartphone 'environment'?
-
-
-In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone attention machine as experienced by us all, and the body as experienced by dance movement specialists. In _Moving Camera Bodies_ we propose an experimental point of convergence between the smartphone and the sensorial capabilities of the dancer. what becomes possible? to not limit the functions and experiences of our interface and relationships with these technologies
-
-To the extent that which our experiences are "predetermined or prescribed"[@kolcio_somatic_2005 p.110] by technology, in _Moving Camera Bodies_ our proposal is to examine, test and imagine other sensate or felt relationships in our society of smartphones.  
-
-In _Moving Camera Bodies_ we apply a physical and sensate (felt) to hyper-visuality and inattention as expressed through and afforded by the smartphone.
-
-#### Research Aim
+#### research aim
 
 The research aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses.  
-
 
 #### research questions
 
 1. _Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
 
-2. _Limits and adaptation:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? How can movement and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
+2. _Limits and adaptation:_ How are movements, postures, gestures and physical experiences limited or facilitated by smartphones? How can dance and somatic practices be adapted and used to generate novel or alternate bodily patterns or habits in relationship to the smartphone? 
 
-3. _Senses and communication:_ The smartphone is both camera (lens) and mirror. It is a device through which we perceive and create ourselves and communicate and interact with the environment and others. 
+3. _Senses and communication:_ We perceive and create ourselves and communicate and interact with the environment and others through smartphones. This process of externalising ourselves in the mirror-lens of the smartphone disconnects our visual selves from our feeling (or sensate) selves. What are alternative sensory and communicative possibilities for the body-smartphone nexus that are underpinned by the non-visual senses?
 
-creates We see ourselves and others through and in it. Senses are about communicate and connect/interact with environment and others around us. How might this hegemonic and physically limited way of _seeing_ be adapted and reconfigured through somatic practices that privilege non-visual senses?
-
-Examine the sensory and communicative possibilities
-
-[^cl6]: _Something that is not so much addressed here is how the smartphone and its mirror quality or rather how we want to be perceived by others and the self-image perspective is affecting how we move with our bodies. There is a separation between what we see and what we feel which potentially (but not necessarily if we work with this in awareness) can disconnect us more from our bodies as there is an externalisation of ourselves in the mirror._
 
 #### objectives
 
@@ -258,6 +238,36 @@ Soloway, J., 2016. The Female Gaze. https://www.youtube.com/watch?v=pnBvppooD9I
 
 
 # edit bin
+
+is hegemonic and physically limited way of _seeing_ involves a rupture between our visual selves and our feeling selves. be expanded to include alternative 
+
+
+It is a . 
+adapted and reconfigured through dance and somatic practices that privilege non-visual senses?
+
+To what extent does the rupture between 
+
+creates We see ourselves and others through and in it. Senses are about communicate and connect/interact with environment and others around us. 
+
+Examine the sensory and communicative possibilities
+
+[^cl6]: _Something that is not so much addressed here is how the smartphone and its mirror quality or rather how we want to be perceived by others and the self-image perspective is affecting how we move with our bodies. There is a separation between what we see and what we feel which potentially (but not necessarily if we work with this in awareness) can disconnect us more from our bodies as there is an externalisation of ourselves in the mirror._
+
+
+In _Moving Camera Bodies_ "alternative parameters of meaningful activity"[@kolcio_somatic_2005 p.107] in the body-smartphone _environment_.  
+
+what can these specialists offer? other ways of being with the device? alternative corporealities, postures, options. corporeal Sensitivity to the device? why would we want this? 
+
+'tools' for speculative exploration into _human experiences with everyday technology_ (expanding corporeal possibilities)
+-- what might be "alternate parameters of meaningful activity"[@kolcio_somatic_2005 p.107] in the bodily-smartphone 'environment'?
+
+
+In this research, we speculate that there is productive tension between these two divergent phenomena: the smartphone attention machine as experienced by us all, and the body as experienced by dance movement specialists. 
+
+
+_Moving Camera Bodies_ is speculative research located at the intersection of our bodies and our smartphones: between the device that has become the centre of our technological lives, and our capacity to sense and be aware of our moving bodies.
+
+
 
 _I don’t think stillness is the right word to describe what smartphone really do to our bodies and its impact on movement. I feel it is more a problem of attention and disconnection from the body and the environment. So often I see people who are walking in the streets, so who are in movement but who are completely unaware of what’s around them in the environment as they are totally absorbed in their phones. Rather than a problem of stillness I see it more as a problem of attention and presence and disconnection from attention, body, movement and the environment that surrounds us. Also let’s not forget that the other name of the smartphone is the ‘mobile’ phone which also expresses that idea of having a computer on the go and therefore facilitating certain movements of the body while digitally interacting in a way which would not be possible with desktop or laptop computers. For me, there is more something to do with how the smartphone somehow disembody us and reduce/narrow our attention to what we see on the screen. Vision dominates. The mind and body are more acutely separated. We’ve also become more savvy about how to be seen by others with the smartphone. It is a portal between us and them which is strongly visual oriented to the detriment of other senses._ 
 
