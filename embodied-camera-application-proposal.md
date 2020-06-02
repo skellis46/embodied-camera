@@ -77,6 +77,8 @@ The research aims to expand the corporeal and sensate possibilities of human-sma
 
 #### objectives
 
+- these will be shortened and combined into 3 or 4 objectives
+
 _Feeling:_
 
 _RQ1 Feeling:_
@@ -90,9 +92,9 @@ _RQ2 Limits and adaptation:_
 4. create edited audio-visual documentation of these practice-based experiments and share online
 5. develop reflective-analytical document for the project website that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone
 
-_RQ4 Senses and communication:_
+_RQ3 Senses and communication:_
 
-6. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural)
+6. examine current cross-disciplinary scholarship (anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural) **change this so it chimes with methods - update for RQ2 as well**
 7. generate a set of artistic research experiments that explore the tension between sensate strategies (e.g. body-based or 'felt' movement practices) and the hyper-visuality of smartphones
 8. create edited audio-visual documentation of these practice-based experiments and share online
 9. develop reflective-analytical document that explores the intersection of non-visual (corporeal) senses and hyper-visuality 
@@ -105,7 +107,7 @@ The dance scholar Ann Cooper-Albright describes how students in her dance class 
 
 These are mixed-methods rooted in the idea that we come to understand through doing.[@ingold_making_2013] The methods place the _experience_ of movement specialists in the foreground: what might their expertise contribute to our sensorial understanding of the human-smartphone nexus? 
 
-We will address _RQ1 Feeling_ through ethnographic interviews and analysis with four dancers/movement experts. The interviews will explore their felt experiences of using smartphones. These ethnographic data will be supplemented with scholarly literature analysis. We will complete fieldwork through artistic research for _RQ2 Limits and adaptation_ and _RQ3 Senses and communication_. The fieldwork will be documented (audio-visual), and followed by auto-ethnographic reflections and analysis of the field-based experiments. For _RQ2 and 3_ we will also undertake a literature survey and analysis of cross-disciplinary scholarship that examines the senses, movement, and visual communication.
+We will address _RQ1 Feeling_ through ethnographic interviews and analysis with four dancers/movement experts. The interviews will explore their felt experiences of using smartphones. These ethnographic data will be supplemented with scholarly literature analysis. We will complete fieldwork through artistic research for _RQ2 Limits and adaptation_ and _RQ3 Senses and communication_. The fieldwork will be video documented, and followed by auto-ethnographic reflections and analysis of the field-based experiments. For _RQ2 and 3_ we will also undertake a literature survey and analysis of cross-disciplinary scholarship that examines the senses, movement, and visual communication.
 
 ### publication of results
 
