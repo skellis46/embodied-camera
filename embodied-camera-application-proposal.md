@@ -99,6 +99,8 @@ These are mixed-methods rooted in the idea that we come to understand through do
 
 We will address _RQ1 Feeling_ through ethnographic interviews and analysis with four dancers/movement experts. The interviews will explore their felt experiences of using smartphones. These ethnographic data will be supplemented with scholarly literature analysis. We will complete fieldwork through artistic research for _RQ2 Limits and adaptation_ and _RQ3 Senses and communication_. The fieldwork will be video documented, and followed by auto-ethnographic reflections and analysis of the field-based experiments. For _RQ2 and 3_ we will also undertake a literature survey and analysis of cross-disciplinary scholarship that examines the senses, movement, and visual communication.
 
+- add how much fieldwork: sessions.
+
 ### publication of results
 
 The results of _Moving Camera Bodies_ will be published through traditional and non-traditional methods, and will be Open Access: 
@@ -124,6 +126,8 @@ The results of _Moving Camera Bodies_ will be published through traditional and 
 
 >explain rationale for research staff resources requested, including reason for number of RAs, PhD students, local researchers, and/or consultants. 
 >briefly describe division of labour between these
+
+(consultants only there to consult on the work being done) - doesn’t quite fit (which is a good thing I think)
 
 ## publications 
 
