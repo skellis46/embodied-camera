@@ -12,3 +12,4 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Katrina McPherson
 - Owa Barua
 - Natalia Barua
+- Leonor Rodriguez Esteves
