@@ -1,6 +1,12 @@
 ---
-csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
+csl: /Users/skellis/Dropbox/pandoc/vancouver-superscript.csl  
 ---
+
+- allow 3 months for proposal assessment 
+- e.g. submit by 1 July, hear back by 1 october — 2 months to write full thing (totally possible)
+- submit full proposal 1 December 2020
+- LT responds by 31 March 2021
+- start project 5 July 2021
 
 # research project grants outline application: moving camera bodies
 
@@ -103,6 +109,8 @@ We will address _RQ1 Feeling_ through ethnographic interviews and analysis with 
 
 ### publication of results
 
+>In speaking of the reductionism of modern science, we should not forget that the primary reductionism is in the assumption that human experience of human meaning can be adequately represented in any human language. This assumption is false. [@berry_life_2001 p.151]
+
 The results of _Moving Camera Bodies_ will be published through traditional and non-traditional methods, and will be Open Access: 
 
 1. Scholarly journal article for International Journal of Screendance that shares and juxtaposes emergent themes from qualitative interviews with key ideas from previous scholarship about relationship between smartphones, attention, movement and senses (_RQ1 feeling_).
@@ -156,6 +164,8 @@ Gil, J., Lepecki, A., 2006. Paradoxical Body. TDR: The Drama Review 50, 21–35.
 Hopkins, S., 2014. The Eye of the Hand: embodied Filmmaking as movement Practice, in: Bloom, K., Galanter, M., Reeve, S. (Eds.), Embodied Lives: Reflections on the Influence of Suprapto Suryodarmo and Amerta Movement. Triarchy, Axminster, Devon.
 
 Ingold, T., 2013. Making: Anthropology, Archaeology, Art and Architecture. Routledge, London.
+
+Kosmatopoulos, E., 2016. Fifteen pairs of mouths. [sculpture/installation]
 
 Loussouarn, C., 2017. Dancing with Nature Off the Leash, in: von Zinnenburg, K. (Ed.), Botanical Drift: Economic Botany and Its Plant Protagonist. Sternberg Press, Berlin, pp. 64–68.
 
