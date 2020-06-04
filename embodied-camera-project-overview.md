@@ -1,7 +1,9 @@
 # project overview: moving camera bodies
 
 
-## useful words 
+
+
+## useful words 
 
 screens | cameras | individualization | identification | dance | visual anthropology | movement | gestures | postures | bodies | movement experience 
 
