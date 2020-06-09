@@ -35,7 +35,7 @@ _notes from conversation with Yvonne_
     - the weakness in my argument 
     - attention: sensitising to the world 
     - little empirical understanding of the neuro-mechanical mechanisms of somatic dance: trained senses, particularly touch, proprioception, body in space, muscular tone (tension), alignment, 
-- smartphone also has got us moving 
+- smartphone also has got us moving / also as feedback mechanism
 - lure of the smartphone, addiction to these things. 
 - where is the impact? 
     - the question of how does this work? 
@@ -45,17 +45,22 @@ _notes from conversation with Yvonne_
     - HCI -- use of YR's time -- translation of this work to other artists. How to transform into value/knowledge for others. HCI, schools, 
     - not in my comfort zone -- interfacing with YR. push through into this other world -- to see how dance/somatics can be used and entered into other discourses. 
     - to stop it being ignored -- to get others to help
-    - 
+- thinking that I'm not trying to improve HCI or UX design. But rather open out how we are with already designed objects; that in doing so we change, deepen, complicate, rethink our relationship to those devices. 
 
 ### abstract
 
 The smartphone is synonymous with its screen and camera. It determines how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness",[@hyman_did_2009 p.598] and thereby compromise our sensorial experience of the world. _Moving Camera Bodies_ aims to expand the corporeal possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses. We will use the body-based expertise of dancers in practice-led fieldwork to explore: 1) alternative physical habits in relation to the smartphone; and 2) new sensory and communicative possibilities for the human-smartphone that are underpinned by the non-visual senses.
 
+
+>I think it would be really relevant and make the project stronger to connect this communicative aspect of the smartphone and the new reality of social distancing which makes use of communicating via technology even more prevalent and the social and cultural implications of this even more necessary to be explored. It might even be worth suggesting an online version of this project where we explore being in our bodies and using the phones while social distancing. -- CL
+
 ### why the Leverhulme Trust?
 
 >full clear justification for applying to LT, based on understanding of LT's character. This is important. Tips: 1) consult their 'approach to grant making'; 2) don't cut and paste from their site; 3) don't duplicate things I've said elsewhere on application; 4) answer the question; 5) don't just describe the project (there's room for that elsewhere); 6) is trust really best recipient for this application? 
 
-Research into how technology affects our bodies and lives is founded on the metaphor of _body as machine_.[@bures_body_2016] This research usually selects mechanistic reductive components of the human body, and its results are are primarily about human optimisation and efficiency. I'm applying to the Leverhulme Trust because _Moving Camera Bodies_ is experimental qualitative research[@denzin_sage_2018] built on an unlikely hunch: that the experience and experiences of movement (dance) specialists might have something complex to add to how we understand the human embodiment of smartphones. 
+Research into how technology affects our bodies and lives is founded on the metaphor of _body as machine_.[@bures_body_2016] This research usually selects mechanistic reductive components of the human body, and its results are primarily about human optimisation and efficiency. I'm applying to the Leverhulme Trust because _Moving Camera Bodies_ is experimental qualitative research[@denzin_sage_2018] built on an unlikely hunch: that the experience and experiences of movement (dance) specialists have something complex to add to how we understand the human embodiment of smartphones. 
+
+>I think it would be worth to spell out what we think this something complex might be because this is what is going to make the project attractive. Obviously we don’t know for sure but it’s important to sound confident. Personally, here I see something to do with how technology can work with body intelligence rather than against it, how it can enhance attention and awareness rather than limits it. -- CL
 
 This research is necessarily speculative in its conception, but also in its methods and outputs. The project's data, outputs and written relfections will be fully open access. Indeed, the entire development of this proposal is openly accessible through a git repository at <https://github.com/skellis46/embodied-camera>.
 
@@ -169,6 +174,8 @@ The following publications contained traditional and non-traditional scholarship
 
 **- Sherry Turkle (social scientist) / Alva Noe**
 
+http://www.georgekhut.com/portfolio/the-heart-library-project/ - example of using visual feedback mechanism to improve awareness of the body
+
 Ashley, T., Cherry, R., Pell, L., 2016. Embodiment and Digital Interactivity: Towards Posthuman Somatic Practices. Journal of Dance and Somatic Practices 8, 3–9. <https://doi.org/10.1386/jdsp.8.1.3_2>
 
 Barker, J. M., 2009. The Tactile Eye: Touch and the Cinematic Experience. Berkeley: U of California Press.
@@ -192,6 +199,8 @@ Hopkins, S., 2014. The Eye of the Hand: embodied Filmmaking as movement Practice
 Ingold, T., 2013. Making: Anthropology, Archaeology, Art and Architecture. Routledge, London.
 
 Kosmatopoulos, E., 2016. Fifteen pairs of mouths. [sculpture/installation]
+
+Loke, L., Schiphorst, T., 2018. The somatic turn in human-computer interaction. Interactions 25, 54–5863.
 
 Loussouarn, C., 2017. Dancing with Nature Off the Leash, in: von Zinnenburg, K. (Ed.), Botanical Drift: Economic Botany and Its Plant Protagonist. Sternberg Press, Berlin, pp. 64–68.
 
