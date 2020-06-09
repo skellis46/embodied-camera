@@ -1,5 +1,5 @@
 ---
-csl: /Users/skellis/Dropbox/pandoc/vancouver-superscript.csl  
+csl: /Users/skellis/Dropbox/pandoc/vancouver-superscript.csl
 ---
 
 - allow 3 months for proposal assessment 
@@ -22,6 +22,30 @@ Monday 5 July 2021
 ### total time to be spent on project by PI (hours per week)
 
 11.25 hour per week (1.5 days), for 18 months
+
+
+_notes from conversation with Yvonne_
+
+- why am I applying for money? (when I can do this anyway)
+    + support colleagues
+    + resources to do the work
+    + demands of C-DaRE
+    + power of somatics and embodied awareness: given resources and kudos, perhaps even respect
+- how does it do this -- this work of the body? 
+    - the weakness in my argument 
+    - attention: sensitising to the world 
+    - little empirical understanding of the neuro-mechanical mechanisms of somatic dance: trained senses, particularly touch, proprioception, body in space, muscular tone (tension), alignment, 
+- smartphone also has got us moving 
+- lure of the smartphone, addiction to these things. 
+- where is the impact? 
+    - the question of how does this work? 
+    - undefined 
+    - "work package 1": just the beginning 
+    - app by Nadia tied to her back 
+    - HCI -- use of YR's time -- translation of this work to other artists. How to transform into value/knowledge for others. HCI, schools, 
+    - not in my comfort zone -- interfacing with YR. push through into this other world -- to see how dance/somatics can be used and entered into other discourses. 
+    - to stop it being ignored -- to get others to help
+    - 
 
 ### abstract
 
@@ -142,6 +166,8 @@ The results of _Moving Camera Bodies_ will be published through traditional and 
 >demonstrate my knowledge of other papers published by other authors in this subject; give examples of current work being carried out
 
 The following publications contained traditional and non-traditional scholarship. This is designed to accurately represent the mixed-mode approach of _Moving Camera Bodies_. 
+
+**- Sherry Turkle (social scientist) / Alva Noe**
 
 Ashley, T., Cherry, R., Pell, L., 2016. Embodiment and Digital Interactivity: Towards Posthuman Somatic Practices. Journal of Dance and Somatic Practices 8, 3–9. <https://doi.org/10.1386/jdsp.8.1.3_2>
 
