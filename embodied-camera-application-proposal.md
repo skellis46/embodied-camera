@@ -83,6 +83,8 @@ We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is
 
 In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] These devices are changing our posture, vision, sleep, movement, parenting and psychology.[@park_effects_2015; @kenney_united_2017; @golebiowski_smartphone_2020; @oh_analysis_2015; @elhai_fear_2016] They compromise our listening,[@stephanidis_effects_2016] cognitive capacity[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013; @kolcio_somatic_2005] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
 
+mobile phones also used as part of artistic production[@kapsali_making_2017 p.39]
+
 The shrinking of our attention into the screen-camera of the smartphone underpins this research proposal. The project's aims, objectives, methods and team are built on two propositions: i) that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies", our "inner proprioceptive signals" and our "living processes;"[Green, in @kolcio_somatic_2005 p.111] and ii) that this growing split between attention and corporeal awareness underpins the various ways in which smartphones are changing our lives. 
 
 Movement specialists like dancers train the body-mind towards sensitivity, attention, listening, and recognising change, posture, alignment and gesture.[@eddy_brief_2009; @reed_conversation_2018] Dancers are corporeal outliers. They represent the margins of the human capacity to be sensitive to the body. At the heart of their work is the desire and capacity to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique, Feldenkrais and Skinner Releasing Technique.
@@ -139,6 +141,8 @@ We will address _RQ1 Feeling_ through ethnographic interviews and analysis with 
 ### publication of results
 
 >In speaking of the reductionism of modern science, we should not forget that the primary reductionism is in the assumption that human experience of human meaning can be adequately represented in any human language. This assumption is false. [@berry_life_2001 p.151]
+
+>My thoughts: it appears to be a 'risky investment' for Leverhulme as you indicate that the project is experimental but you did not lay out what you expect to be the outcomes to be and then what you will actually do with the outcomes of your 'experiment'. Perhaps you mean that the project is 'exploratory' in nature? -- Amy Tan
 
 The results of _Moving Camera Bodies_ will be published through traditional and non-traditional methods, and will be Open Access: 
 
