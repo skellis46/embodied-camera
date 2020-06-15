@@ -68,23 +68,24 @@ Herein lies the key reason for my application to the Leverhulme Trust: that I un
 
 >used for LT to decide if I have time to do the research 
 
-## proposal summary
+## proposal summary (998/1000)
 
-### proposal summary (997/1000)
+### research aim
+
+The research aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses.  
+
+### summary 
 
 We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is always-with-us and always-on, and with it we record what we do, what we see and how we want to be seen. Smartphones are shaping our identities and sense of self,[@harkin_my_2020] and changing our posture, vision, sleep and movement.[@park_effects_2015; @golebiowski_smartphone_2020; @oh_analysis_2015] They also compromise our listening,[@stephanidis_effects_2016] cognitive capacity[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
 
 The shrinking of our attention into the screen-camera of the smartphone underpins the two suppositions on which this proposal is built: i) that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies";[@kolcio_somatic_2005 p.111] and ii) that this growing split between attention and bodily awareness underpins the ways in which smartphones are changing our lives. 
 
-Dancers trained in somatic practices work to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique and Feldenkrais. In Human Computer Interaction (HCI), there is increasing interest in integrating somatic practices into research design processes to develop more nuanced HCI design.[@hook_designing_2018] However, _Moving Camera Bodies_ is not a proposal in which somatic practices are used to somehow improve the design of smartphones. Instead, it explores alternative _ways of being_ while using a smartphone by focusing on sensation, attention and bodily awareness. 
+Dancers trained in somatic practices work to sense and feel the body from the inside through proprioception and kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander Technique and Feldenkrais. In Human Computer Interaction (HCI), there is increasing interest in integrating somatic practices into research design processes to develop more nuanced HCI design.[@hook_designing_2018; @schiphorst_self-evidence_2011] However, _Moving Camera Bodies_ is not a proposal in which somatic practices are used to somehow improve the design of smartphones. Instead, it explores alternative _ways of being_ while using a smartphone by focusing on sensation, attention and bodily awareness. 
 
 We propose a methodological point of convergence between the smartphone and the sensorial capabilities of the somatic practitioner. This is to apply a physical and sensate (felt) speculative approach to hyper-visuality and inattention as expressed through and afforded by the smartphone. How might these somatic dance specialists change our bodily relationship to the smartphone? In _Moving Camera Bodies_ our proposal is to imagine and examine alternative corporealities, postures and sensitivities that expand the experiences of our _embodied_ relationship to smartphones.
 
-#### research aim
 
-The research aims to expand the corporeal and sensate possibilities of human-smartphone experiences, and to deepen understanding of the experiential inter-relationships between smartphones, movement and the senses.  
-
-#### research questions
+### research questions
 
 1. _RQ1 Feeling:_ How does it feel in our bodies -- somatically -- to use a smartphone? 
 
@@ -92,7 +93,7 @@ The research aims to expand the corporeal and sensate possibilities of human-sma
 
 3. _RQ3 Non-visual senses:_ What are alternative sensory experiences for the body-smartphone nexus afforded by the non-visual senses?
 
-#### objectives
+### objectives
 
 _RQ1 Feeling:_
 
@@ -112,18 +113,17 @@ _RQ3 Non-visual senses:_
 8. create and share video documentation of these practice-based experiments
 9. develop reflective-analytical document that explores the intersection of non-visual senses and hyper-visuality 
  
-#### significance
+### significance
 
 The dance scholar Ann Cooper-Albright describes how students in her dance class tell her so regularly "how wonderful it feels to 'be in my body three times a week,'" that she has had to ask the obvious question: "where are they the rest of the time?"[@cooper_albright_how_2019 p.62] This discrepancy or rupture between attention, senses, the body and digital experience is at the heart of why _Moving Camera Bodies_ is important: 1) the research affords a direct yet exploratory investigation into the crucial personal technology of our time; 2) it provides the means to speculate on alternative _embodied_ relationships to smartphones; 3) it has a unique experientially-led method (through physical practices and experiments) with somatics experts using smartphones and imagining alternative ways of "being" with them. 
 
-#### methods
+### methods
 
 These are mixed-methods that place the _experience_ of movement specialists in the foreground. We will address _RQ1 Feeling_ through ethnographic interviews and analysis with four somatics experts. The interviews will explore their felt experiences of using smartphones. These ethnographic data will be supplemented with scholarly literature analysis. We will complete fieldwork through artistic research for _RQ2 Limits and adaptation_ and _RQ3 Non-visual senses_. The fieldwork (2 x 3 weeks) will be video documented, and followed by auto-ethnographic reflections and analysis of the field-based experiments. For _RQ2 and 3_ we will also undertake a literature survey and analysis of cross-disciplinary scholarship that examines the senses, movement, and visual communication. 
 
 ### publication of results
 
 The results of _Moving Camera Bodies_ will be published through traditional and non-traditional methods, and will be Open Access: 1. Scholarly article for International Journal of Screendance that juxtaposes emergent themes from qualitative interviews with key ideas from previous scholarship about relationship between smartphones, attention, movement and senses (_RQ1 feeling_). 2. Interview transcriptions made openly accessible through project website as data for future research (_RQ1 feeling_). 3. Annotated video lexicon of body gestures, movements and actions that are limited or afforded by the smartphone and its camera; recorded, organised and uploaded to project website (_RQ2 Limits and adaptation_). 4. Audio-visual document of alternative sensory experiences for the body-smartphone nexus afforded by the non-visual senses (_RQ3 Non-visual senses_). 5. Video essay that examines the expanded corporeal and sensate possibilities of human-smartphone experiences as revealed through the research (_RQ2-3_). 6. Project website and blog designed to share key ideas and communicate research understandings as they emerge (_RQ1-3_).
-
 
 ----
 
