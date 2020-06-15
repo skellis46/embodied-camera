@@ -2,6 +2,48 @@
 
 
 
+is known as _somaesthetic interaction design_
+
+To the extent that our experiences are "predetermined or prescribed"[@kolcio_somatic_2005 p.110] by technology, i
+
+
+There is also growing interest in HCI to use first-person perception to reveal "layers of lived experience"[@loke_somatic_2018 p.57] and thereby 
+
+represent the margins of the human capacity to be sensitive to the body. Their practice is to increase the capacity to 
+
+[@eddy_brief_2009] At the heart of their work is the desire and capacity 
+
+are experts in recognising and feeling  change, posture and alignment.
+
+**- Sherry Turkle (social scientist) / Alva Noe**
+
+http://www.georgekhut.com/portfolio/the-heart-library-project/ - example of using visual feedback mechanism to improve awareness of the body
+
+is a hyper-visual and hyper-portable device designed around its screen and camera. 
+
+In 2016 there were 3.9 billion smartphones globally, and by 2022 there will likely be 6.8 billion.[@barnes_mobile_2019] 
+
+- what might their expertise contribute to our sensorial understanding of the human-smartphone nexus? 
+
+(anthropology, sociology, psychology, somatic practices, visual culture) to reveal key ideas at the intersection of oculo-centric habitus, photo-visual culture, and non-visual senses (haptic, kinesthetic, proprioceptive, aural) **change this so it chimes with methods - update for RQ2 as well**
+
+
+- note re RQ3 from CW: This is the most challenging RQ and I imagine challenging  to devise a way to address it.  Do they build on 1 and 2?  
+- note from CW re 'body-based or 'felt' practices from obj 7: Or is this the way RQ3 builds on RQ2?
+
+rooted in the idea that we come to understand through doing.[@ingold_making_2013] The methods 
+
+We perceive and create ourselves and communicate and interact with the environment and others through smartphones. This process of externalising ourselves in the mirror-lens of the smartphone disconnects our visual selves from our feeling (or sensate) selves. 
+
+>In speaking of the reductionism of modern science, we should not forget that the primary reductionism is in the assumption that human experience of human meaning can be adequately represented in any human language. This assumption is false. [@berry_life_2001 p.151]
+
+>full clear justification for applying to LT, based on understanding of LT's character. This is important. Tips: 1) consult their 'approach to grant making'; 2) don't cut and paste from their site; 3) don't duplicate things I've said elsewhere on application; 4) answer the question; 5) don't just describe the project (there's room for that elsewhere); 6) is trust really best recipient for this application? 
+
+Since the release of the first smartphone in 2007, its design has iterated towards technological and communications complexity in spite of 
+
+mobile phones also used as part of artistic production[@kapsali_making_2017 p.39]
+
+
 >Research-creation does much more than what the funding agencies had in store for it: it generates new forms of experience; it tremulously stages an encounter for disparate practices, giving them a conduit for collective expression; it hesitantly acknowledges that normative modes of inquiry and containment often are incapable of assessing its value; it generates forms of knowledge that are extralinguistic. [@manning_minor_2016 p.27]
 
 
