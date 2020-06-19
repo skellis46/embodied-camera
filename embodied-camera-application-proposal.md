@@ -10,6 +10,8 @@ csl: /Users/skellis/Dropbox/pandoc/vancouver-superscript.csl
 
 # research project grants outline application: moving camera bodies
 
+Moving Camera Bodies: Attention, Embodiment and Smartphones
+
 ## proposal
 
 ### fields of study
@@ -27,19 +29,19 @@ Monday 5 July 2021
 
 The screen and camera of a smartphone determine how we communicate with and see others, and how we want to be seen by others. Smartphones also cause "inattentional blindness",[@hyman_did_2009 p.598] and thereby compromise our sensorial experience of the world. _Moving Camera Bodies_ aims to expand the experiential possibilities between smartphones, movement and the senses. We will use the body-based expertise of dancers in practice-led fieldwork to explore: 1) alternative physical habits in relation to the smartphone; and 2) new sensory possibilities for the human-smartphone that are underpinned by the non-visual senses.
 
-### why the Leverhulme Trust?
+### why the Leverhulme Trust? (250 words)
 
-Research into how technology affects our bodies and lives usually focuses on mechanistic reductive components of the human body, and its results are primarily about human optimisation and efficiency. I'm applying to the Leverhulme Trust because _Moving Camera Bodies_ is experimental qualitative research[@denzin_sage_2018] built on a hunch: that the somatic-based expertise and experience of movement (dance) specialists have something complex to add to how we understand the human embodiment of smartphones.
+Research into how technology affects our bodies and lives usually focuses on mechanistic reductive components of the human body, and its results are primarily about human optimisation and efficiency. I'm applying to the Leverhulme Trust because _Moving Camera Bodies_ is experimental qualitative research built on a hunch: that the somatic-based expertise and experience of movement specialists can add important sensorial information about the nature of attention to how we understand the human embodiment of smartphones.
 
-This research is speculative in its conception, but also in its methods and outputs. The project's data and outputs will be fully open access. Indeed, the entire development of this proposal is openly accessible through a git repository at <https://github.com/skellis46/embodied-camera>.
+This research is speculative in its conception, methods and outputs. There is risk in _Moving Camera Bodies_: a project that exists between the disciplines of dance and somatic practices and human computer interaction. Where artistic research is normally used to pursue the possibilities of arts practices, here it is applied as a tool to understand and expand contemporary cultural human-technology habits. The outputs are planned to reflect this movement and sensory exploration, and are predicated on the possibility that research-creation "generates forms of knowledge that are extralinguistic".[@manning_minor_2016 p.27]
 
-There is risk in _Moving Camera Bodies_: a project that exists between the disciplines of dance and somatic practices and human computer interaction. Where creative artistic research is normally used to pursue the possibilities and limits of those practices, here it is used or applied as a set of tools to understand and expand contemporary cultural human-technology _practices_. The outputs themselves are planned to reflect this exploration, and are predicated on the possibility that research-creation "generates forms of knowledge that are extralinguistic".[@manning_minor_2016 p.27] The psychologist Barbara Tversky states this idea emphatically: "seeing in the absence of acting doesn't change perception".[@tversky_mind_2019 n.p.] In other words, our senses do not function in a coordinated manner unless we are acting and moving. 
-
-Herein lies the key reason for my application to the Leverhulme Trust: that I understand human endeavour and culture to be on the cusp of a profoundly different relationship to words and images. That unless our research practices somehow reflect the hyper-visuality of this technological age and how this is changing the way we are moving and experiencing our bodies, then we will miss opportunities to generate data and experiences that "somehow turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
+Herein lies the key reason for my application to the Leverhulme Trust: that I understand human endeavour and culture to be on the cusp of a profoundly different relationship to words and images. That unless our research practices somehow reflect the hyper-visuality of this technological age and how this is changing the way we are moving and experiencing our bodies, we will miss opportunities to generate data, experiences and understanding that "turn up outside the bounds of what was conceivable."[Foster, in @kolcio_somatic_2005 p.121]
 
 ### other research commitments 
 
 >used for LT to decide if the PI has time to do the research 
+
+Principal Applicant Ellis is a full-time researcher at the Centre for Dance Research. He has ongoing research projects that take up 20% of his time, and a further 20% is devoted to PhD student supervision, and 10% administration. His remaining time is open to new research projects.
 
 ## proposal summary (990/1000)
 
@@ -49,11 +51,11 @@ To explore alternative movements, postures and body-based senses that expand our
 
 ### summary 
 
-We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is always-with-us and always-on, and with it we record what we do, what we see and how we want to be seen. Smartphones are shaping our identities and sense of self,[@harkin_my_2020] and changing our posture, vision and movement.[@park_effects_2015; @golebiowski_smartphone_2020] They also compromise our listening,[@stephanidis_effects_2016] cognition[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013] smartphones seem to narrow our attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
+We live in a "smartphone society".[@ofcom_communications_2017] The smartphone is always-with-us and always-on, and with it we record what we do, what we see and how we want to be seen. Smartphones are shaping our identities and sense of self,[@harkin_my_2020] and changing our posture, vision and movement.[@park_effects_2015; @golebiowski_smartphone_2020] They also compromise our listening,[@stephanidis_effects_2016] cognition[@ward_brain_2017] and proprioception.[@alshahrani_impact_2018] Whereas technologies commonly and historically expand our senses,[@davidson_somatics_2013] smartphones seem to narrow our sensorial attention. They produce a phenomenon known as _inattentional blindness_: an impaired capacity to "notice new and distinctive stimuli".[@hyman_did_2009 p.604]
 
-The shrinking of our attention into the screen-camera of the smartphone underpins the two suppositions of this proposal: i) that as our attention is compressed into the smartphone, we become disconnected from the "experience of our bodies";[@kolcio_somatic_2005 p.111] and ii) the growing split between attention and bodily awareness underpins the ways in which smartphones are changing our lives. 
+The shrinking of our attention into the screen-camera of the smartphone underpins the two suppositions of this proposal: i) that as our attention is compressed into the smartphone, we become more disconnected from the "experience of our bodies";[@kolcio_somatic_2005 p.111] and ii) the growing split between attention and bodily awareness underpins the ways in which smartphones are changing our lives. 
 
-Dancers trained in somatic practices work to sense and feel the body from the inside through kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Feldenkrais which is designed to help re-organise the body's sensory-motor neural pathways. In Human Computer Interaction (HCI), there is increasing interest in integrating somatic practices into research to develop more nuanced HCI design.[@hook_designing_2018; @schiphorst_self-evidence_2011] However, _Moving Camera Bodies_ is not a proposal in which somatic practices are used to improve the design of smartphones. Instead, it explores alternative _ways of being_ while using a smartphone by focusing on sensation, attention and bodily awareness.
+Dancers trained in somatic practices work to sense and feel the body from the inside through kinaesthetic awareness. This _sensate acuity_ -- as if _seeing_ with the whole body -- is the hallmark of somatic practices like Alexander and Feldenkrais Techniques which are designed to help re-organise the body's sensory-motor neural pathways. In Human Computer Interaction (HCI), there is increasing interest in integrating somatic practices into research to develop more nuanced HCI design.[@hook_designing_2018; @schiphorst_self-evidence_2011] However, _Moving Camera Bodies_ is not a proposal in which somatic practices are used to improve the design of smartphones. Instead, it explores alternative _ways of being_ while using a smartphone by focusing on sensation, attention and bodily awareness.
 
 We propose a methodological point of convergence between the narrowing of human attention while using smartphones and the sensorial capabilities of the somatic practitioner. This is to apply a physical and sensate exploratory approach to hyper-visuality and inattention as generated by the smartphone. How might these somatic dance specialists change our bodily relationship to the smartphone and open new possibilities of interaction which are enhancing body awareness rather than restricting it?
 
@@ -76,7 +78,7 @@ _RQ2 Limits and adaptation:_
 
 3. create a set of body-based somatic 'activities' that expand our corporeal relationship to the smartphone;
 4. create and share documentation of these practice-based experiments;
-5. develop reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone.
+5. develop a reflective-analytical document that describes the effects of the experimental somatic practices on our corporeal relationship to the smartphone.
 
 _RQ3 Non-visual senses:_
 
@@ -106,17 +108,17 @@ The results of _Moving Camera Bodies_ will be published through traditional and 
 
 ### staff resources requested 
 
-PI Simon Ellis will work 1.5 days per week for 18 months (approximately 100 days). His work will be divided across project management and administration, over-seeing data collection, leading the field experiments, and ensuring project outputs are delivered as planned.
+Principal Applicant Simon Ellis will work 1.5 days per week for 18 months (approximately 100 days). His work will be divided across project management and administration, over-seeing data collection, leading the field experiments, and ensuring project outputs are delivered as planned. He will also provide intellectual leadership and dance and somatics expertise.
 
-Co-applicant Yvonne Rogers is an HCI specialist. She will work 1.5 hours per week for 18 months (approximately 13 days). Her primary role will be to help transform the knowledge acquired during the fieldwork, and develop the collection of practices (objective 8) that speak beyond dance and somatics specialists to the wider public.
+Co-applicant Yvonne Rogers is an HCI specialist. She will work 1.5 hours per week for 18 months (approximately 13 days). Her primary role will be to support Objective 8: to help transform the knowledge acquired during the fieldwork as part of the development of the collection of practices that speak beyond dance and somatics specialists to the wider public.
 
-There will be one RA working at 2.5 days per week for 18 months (approximately 167 days). This person's role will be to support the project through administrative work, research support, video documentation, data management and project communications.
+There will be one RA working at 3 days per week for 18 months (approximately 200 days). This person's role will be to support the project through administrative work, video documentation, data management and project communications. They will also develop their own research expertise by supporting data analysis and writing. 
 
 There will be four consultants: Owa Barua, Katrina McPherson, Natalia Barua and Claire Loussouarn. All four are movement and film specialists working with exploratory methods of integrating technologies and somatic practices. Each brings unique skills and experience: Owa Barua's practice focuses on embodied camera work; McPherson has worked closely with the camera and movement as improvisation; Natalia Barua's works to communicate embodied understandings in screendance to the wider public; and Loussouarn is an anthropologist working with technology and somatic practices. Previously PI Ellis has worked with Barua, McPherson and Barua on experimental dance and archival films. The consultants are required to build a group of experts capable of completing the experimental creative-research fieldwork under Ellis' leadership. They will provide practical consultation specific to their individual expertise. Each consultant will be employed for 30 days of fieldwork (two periods of three weeks), budgeted at £166.67 per day = £5000 each). 
 
 ## publications 
 
-The following publications contained traditional and non-traditional scholarship. This is designed to accurately represent the mixed-mode approach of _Moving Camera Bodies_. 
+The following list contains traditional and non-traditional scholarship to accurately represent the mixed-mode approach of _Moving Camera Bodies_. 
 
 Barker, J. M., 2009. _The Tactile Eye: Touch and the Cinematic Experience_. Berkeley: U of California Press.
 
