@@ -23,7 +23,7 @@ Monday 5 July 2021
 
 ### total time to be spent on project by PI (hours per week)
 
-11.25 hour per week (1.5 days), for 18 months = 100 days
+11.25 hours per week (1.5 days), for 18 months = 100 days
 
 ### abstract (93/100)
 
@@ -115,6 +115,13 @@ Co-applicant Yvonne Rogers is an HCI specialist. She will work 1.5 hours per wee
 Request one RA working 3 days per week for 18 months (200 days). This person will support the project through administrative work, video documentation, data management and project communications. They will also develop their own research expertise by supporting data analysis and writing. 
 
 There will be four consultants: Owa Barua, Katrina McPherson, Natalia Barua and Claire Loussouarn. All four are movement and film specialists working with exploratory methods of integrating technologies and somatic practices. Each brings unique skills and experience: Owa Barua's practice focuses on embodied camera work; McPherson has worked closely with the camera and movement as improvisation; Natalia Barua works to communicate embodied understandings in screendance to the wider public; and Loussouarn is an anthropologist working with technology and somatic practices. Previously PI Ellis has worked with Barua, McPherson and Barua on experimental dance and archival films. The consultants are required as a group of experts capable of completing the experimental creative-research fieldwork under Ellis' leadership. They will provide practical consultation specific to their individual expertise. Each consultant will be employed for 30 days of fieldwork (two periods of three weeks), at £166.67 per day = £5000 each). 
+
+
+### Contribution of co-applicant (220/250)
+
+Yvonne Rogers is a Professor of Interaction Design, the director of UCLIC and a deputy head of the Computer Science department at University College London. She is interested in how technology transforms what it means to be human. Her work is in the areas of ubiquitous computing, interaction design and human-computer interaction. A central theme of her work is concerned with designing interactive technologies that augment humans. She has been instrumental in promulgating new theories (e.g., external cognition), alternative methodologies (e.g., in the wild studies) and far-reaching research agendas (e.g., "Being Human: HCI in 2020"). She has also published two monographs "HCI Theory: Classical, Modern and Contemporary." and "Research in the Wild." with Paul Marshall. 
+
+Rogers' role in _Moving camera bodies_ will be to help transform the understandings emerging from the fieldwork to develop a collection of practices, strategies and tools that speak beyond dance and somatics specialists to the wider public. Her work in community engagement and collaborative work activities will be key here. She will support Ellis in finding a way to _translate_ and communicate more esoteric body-based practices that can change and expand the ways in which people embody and understand how they use smartphones. Her background in Computer Science will act as an _intellectual foil_ and _supportive challenge_ to Ellis' expertise in body-based research and practice.
 
 ## publications 
 
