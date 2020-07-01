@@ -8,6 +8,8 @@ csl: /Users/skellis/Dropbox/pandoc/vancouver-superscript.csl
 - LT responds by 31 March 2021
 - start project 5 July 2021
 
+
+
 # research project grants outline application: moving camera bodies
 
 Moving Camera Bodies: Attention, Embodiment and Smartphones
@@ -154,6 +156,8 @@ Loke, L., Schiphorst, T., 2018. 'The somatic turn in human-computer interaction'
 Loussouarn, C., 2017. 'Dancing with Nature Off the Leash', in: von Zinnenburg, K. (Ed.), _Botanical Drift: Economic Botany and Its Plant Protagonist_. Sternberg Press, Berlin, pp. 64–68.
 
 Loussouarn, C. 2019. <http://somaticstoolkit.coventry.ac.uk/loussouarn-dancing-with-the-camera>
+
+McPherson, K., 2019. Making video dance: a step-by-step guide to creating dance for the screen, Second edition. ed. Routledge, Taylor &#38; Francis Group, London ; New York.
 
 Munster, A., 2006. _Materializing new media: embodiment in information aesthetics_. Dartmouth College Press, Hanover, N.H.
 
